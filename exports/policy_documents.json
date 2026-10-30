@@ -1,0 +1,2002 @@
+[
+  {
+    "policy_id": 1,
+    "title": "Scholarship application policy edition 1",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-001"
+  },
+  {
+    "policy_id": 2,
+    "title": "Financial aid eligibility policy edition 1",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-002"
+  },
+  {
+    "policy_id": 3,
+    "title": "Tuition assistance policy edition 1",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-003"
+  },
+  {
+    "policy_id": 4,
+    "title": "Scholarship status policy edition 1",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-004"
+  },
+  {
+    "policy_id": 5,
+    "title": "Scholarship application policy edition 2",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-005"
+  },
+  {
+    "policy_id": 6,
+    "title": "Financial aid eligibility policy edition 2",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-006"
+  },
+  {
+    "policy_id": 7,
+    "title": "Tuition assistance policy edition 2",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-007"
+  },
+  {
+    "policy_id": 8,
+    "title": "Scholarship status policy edition 2",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-008"
+  },
+  {
+    "policy_id": 9,
+    "title": "Scholarship application policy edition 3",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-009"
+  },
+  {
+    "policy_id": 10,
+    "title": "Financial aid eligibility policy edition 3",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-010"
+  },
+  {
+    "policy_id": 11,
+    "title": "Tuition assistance policy edition 3",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-011"
+  },
+  {
+    "policy_id": 12,
+    "title": "Scholarship status policy edition 3",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-012"
+  },
+  {
+    "policy_id": 13,
+    "title": "Scholarship application policy edition 4",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-013"
+  },
+  {
+    "policy_id": 14,
+    "title": "Financial aid eligibility policy edition 4",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-014"
+  },
+  {
+    "policy_id": 15,
+    "title": "Tuition assistance policy edition 4",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-015"
+  },
+  {
+    "policy_id": 16,
+    "title": "Scholarship status policy edition 4",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-016"
+  },
+  {
+    "policy_id": 17,
+    "title": "Scholarship application policy edition 5",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-017"
+  },
+  {
+    "policy_id": 18,
+    "title": "Financial aid eligibility policy edition 5",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-018"
+  },
+  {
+    "policy_id": 19,
+    "title": "Tuition assistance policy edition 5",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-019"
+  },
+  {
+    "policy_id": 20,
+    "title": "Scholarship status policy edition 5",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-020"
+  },
+  {
+    "policy_id": 21,
+    "title": "Scholarship application policy edition 6",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-021"
+  },
+  {
+    "policy_id": 22,
+    "title": "Financial aid eligibility policy edition 6",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-022"
+  },
+  {
+    "policy_id": 23,
+    "title": "Tuition assistance policy edition 6",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-023"
+  },
+  {
+    "policy_id": 24,
+    "title": "Scholarship status policy edition 6",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-024"
+  },
+  {
+    "policy_id": 25,
+    "title": "Scholarship application policy edition 7",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-025"
+  },
+  {
+    "policy_id": 26,
+    "title": "Financial aid eligibility policy edition 7",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-026"
+  },
+  {
+    "policy_id": 27,
+    "title": "Tuition assistance policy edition 7",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-027"
+  },
+  {
+    "policy_id": 28,
+    "title": "Scholarship status policy edition 7",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-028"
+  },
+  {
+    "policy_id": 29,
+    "title": "Scholarship application policy edition 8",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-029"
+  },
+  {
+    "policy_id": 30,
+    "title": "Financial aid eligibility policy edition 8",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-030"
+  },
+  {
+    "policy_id": 31,
+    "title": "Tuition assistance policy edition 8",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-031"
+  },
+  {
+    "policy_id": 32,
+    "title": "Scholarship status policy edition 8",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-032"
+  },
+  {
+    "policy_id": 33,
+    "title": "Scholarship application policy edition 9",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-033"
+  },
+  {
+    "policy_id": 34,
+    "title": "Financial aid eligibility policy edition 9",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-034"
+  },
+  {
+    "policy_id": 35,
+    "title": "Tuition assistance policy edition 9",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-035"
+  },
+  {
+    "policy_id": 36,
+    "title": "Scholarship status policy edition 9",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-036"
+  },
+  {
+    "policy_id": 37,
+    "title": "Scholarship application policy edition 10",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-037"
+  },
+  {
+    "policy_id": 38,
+    "title": "Financial aid eligibility policy edition 10",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-038"
+  },
+  {
+    "policy_id": 39,
+    "title": "Tuition assistance policy edition 10",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-039"
+  },
+  {
+    "policy_id": 40,
+    "title": "Scholarship status policy edition 10",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-040"
+  },
+  {
+    "policy_id": 41,
+    "title": "Scholarship application policy edition 11",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-041"
+  },
+  {
+    "policy_id": 42,
+    "title": "Financial aid eligibility policy edition 11",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-042"
+  },
+  {
+    "policy_id": 43,
+    "title": "Tuition assistance policy edition 11",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-043"
+  },
+  {
+    "policy_id": 44,
+    "title": "Scholarship status policy edition 11",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-044"
+  },
+  {
+    "policy_id": 45,
+    "title": "Scholarship application policy edition 12",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-045"
+  },
+  {
+    "policy_id": 46,
+    "title": "Financial aid eligibility policy edition 12",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-046"
+  },
+  {
+    "policy_id": 47,
+    "title": "Tuition assistance policy edition 12",
+    "category_id": 1,
+    "version": 1,
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-047"
+  },
+  {
+    "policy_id": 48,
+    "title": "Scholarship status policy edition 12",
+    "category_id": 1,
+    "version": 2,
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-048"
+  },
+  {
+    "policy_id": 49,
+    "title": "Scholarship application policy edition 13",
+    "category_id": 1,
+    "version": 1,
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-049"
+  },
+  {
+    "policy_id": 50,
+    "title": "Financial aid eligibility policy edition 13",
+    "category_id": 1,
+    "version": 2,
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-FINANCIAL-AID-2026-050"
+  },
+  {
+    "policy_id": 51,
+    "title": "Course registration policy edition 1",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-001"
+  },
+  {
+    "policy_id": 52,
+    "title": "Registration deadline policy edition 1",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-002"
+  },
+  {
+    "policy_id": 53,
+    "title": "Enrollment verification policy edition 1",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-003"
+  },
+  {
+    "policy_id": 54,
+    "title": "Course change policy edition 1",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-004"
+  },
+  {
+    "policy_id": 55,
+    "title": "Course registration policy edition 2",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-005"
+  },
+  {
+    "policy_id": 56,
+    "title": "Registration deadline policy edition 2",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-006"
+  },
+  {
+    "policy_id": 57,
+    "title": "Enrollment verification policy edition 2",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-007"
+  },
+  {
+    "policy_id": 58,
+    "title": "Course change policy edition 2",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-008"
+  },
+  {
+    "policy_id": 59,
+    "title": "Course registration policy edition 3",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-009"
+  },
+  {
+    "policy_id": 60,
+    "title": "Registration deadline policy edition 3",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-010"
+  },
+  {
+    "policy_id": 61,
+    "title": "Enrollment verification policy edition 3",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-011"
+  },
+  {
+    "policy_id": 62,
+    "title": "Course change policy edition 3",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-012"
+  },
+  {
+    "policy_id": 63,
+    "title": "Course registration policy edition 4",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-013"
+  },
+  {
+    "policy_id": 64,
+    "title": "Registration deadline policy edition 4",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-014"
+  },
+  {
+    "policy_id": 65,
+    "title": "Enrollment verification policy edition 4",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-015"
+  },
+  {
+    "policy_id": 66,
+    "title": "Course change policy edition 4",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-016"
+  },
+  {
+    "policy_id": 67,
+    "title": "Course registration policy edition 5",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-017"
+  },
+  {
+    "policy_id": 68,
+    "title": "Registration deadline policy edition 5",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-018"
+  },
+  {
+    "policy_id": 69,
+    "title": "Enrollment verification policy edition 5",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-019"
+  },
+  {
+    "policy_id": 70,
+    "title": "Course change policy edition 5",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-020"
+  },
+  {
+    "policy_id": 71,
+    "title": "Course registration policy edition 6",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-021"
+  },
+  {
+    "policy_id": 72,
+    "title": "Registration deadline policy edition 6",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-022"
+  },
+  {
+    "policy_id": 73,
+    "title": "Enrollment verification policy edition 6",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-023"
+  },
+  {
+    "policy_id": 74,
+    "title": "Course change policy edition 6",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-024"
+  },
+  {
+    "policy_id": 75,
+    "title": "Course registration policy edition 7",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-025"
+  },
+  {
+    "policy_id": 76,
+    "title": "Registration deadline policy edition 7",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-026"
+  },
+  {
+    "policy_id": 77,
+    "title": "Enrollment verification policy edition 7",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-027"
+  },
+  {
+    "policy_id": 78,
+    "title": "Course change policy edition 7",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-028"
+  },
+  {
+    "policy_id": 79,
+    "title": "Course registration policy edition 8",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-029"
+  },
+  {
+    "policy_id": 80,
+    "title": "Registration deadline policy edition 8",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-030"
+  },
+  {
+    "policy_id": 81,
+    "title": "Enrollment verification policy edition 8",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-031"
+  },
+  {
+    "policy_id": 82,
+    "title": "Course change policy edition 8",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-032"
+  },
+  {
+    "policy_id": 83,
+    "title": "Course registration policy edition 9",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-033"
+  },
+  {
+    "policy_id": 84,
+    "title": "Registration deadline policy edition 9",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-034"
+  },
+  {
+    "policy_id": 85,
+    "title": "Enrollment verification policy edition 9",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-035"
+  },
+  {
+    "policy_id": 86,
+    "title": "Course change policy edition 9",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-036"
+  },
+  {
+    "policy_id": 87,
+    "title": "Course registration policy edition 10",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-037"
+  },
+  {
+    "policy_id": 88,
+    "title": "Registration deadline policy edition 10",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-038"
+  },
+  {
+    "policy_id": 89,
+    "title": "Enrollment verification policy edition 10",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-039"
+  },
+  {
+    "policy_id": 90,
+    "title": "Course change policy edition 10",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-040"
+  },
+  {
+    "policy_id": 91,
+    "title": "Course registration policy edition 11",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-041"
+  },
+  {
+    "policy_id": 92,
+    "title": "Registration deadline policy edition 11",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-042"
+  },
+  {
+    "policy_id": 93,
+    "title": "Enrollment verification policy edition 11",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-043"
+  },
+  {
+    "policy_id": 94,
+    "title": "Course change policy edition 11",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-044"
+  },
+  {
+    "policy_id": 95,
+    "title": "Course registration policy edition 12",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-045"
+  },
+  {
+    "policy_id": 96,
+    "title": "Registration deadline policy edition 12",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-046"
+  },
+  {
+    "policy_id": 97,
+    "title": "Enrollment verification policy edition 12",
+    "category_id": 2,
+    "version": 1,
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-047"
+  },
+  {
+    "policy_id": 98,
+    "title": "Course change policy edition 12",
+    "category_id": 2,
+    "version": 2,
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-048"
+  },
+  {
+    "policy_id": 99,
+    "title": "Course registration policy edition 13",
+    "category_id": 2,
+    "version": 1,
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-049"
+  },
+  {
+    "policy_id": 100,
+    "title": "Registration deadline policy edition 13",
+    "category_id": 2,
+    "version": 2,
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-REGISTRATION-2026-050"
+  },
+  {
+    "policy_id": 101,
+    "title": "Student portal password reset policy edition 1",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-001"
+  },
+  {
+    "policy_id": 102,
+    "title": "Account recovery policy edition 1",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-002"
+  },
+  {
+    "policy_id": 103,
+    "title": "Campus Wi-Fi access policy edition 1",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-003"
+  },
+  {
+    "policy_id": 104,
+    "title": "Learning platform login policy edition 1",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-004"
+  },
+  {
+    "policy_id": 105,
+    "title": "Student portal password reset policy edition 2",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-005"
+  },
+  {
+    "policy_id": 106,
+    "title": "Account recovery policy edition 2",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-006"
+  },
+  {
+    "policy_id": 107,
+    "title": "Campus Wi-Fi access policy edition 2",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-007"
+  },
+  {
+    "policy_id": 108,
+    "title": "Learning platform login policy edition 2",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-008"
+  },
+  {
+    "policy_id": 109,
+    "title": "Student portal password reset policy edition 3",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-009"
+  },
+  {
+    "policy_id": 110,
+    "title": "Account recovery policy edition 3",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-010"
+  },
+  {
+    "policy_id": 111,
+    "title": "Campus Wi-Fi access policy edition 3",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-011"
+  },
+  {
+    "policy_id": 112,
+    "title": "Learning platform login policy edition 3",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-012"
+  },
+  {
+    "policy_id": 113,
+    "title": "Student portal password reset policy edition 4",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-013"
+  },
+  {
+    "policy_id": 114,
+    "title": "Account recovery policy edition 4",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-014"
+  },
+  {
+    "policy_id": 115,
+    "title": "Campus Wi-Fi access policy edition 4",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-015"
+  },
+  {
+    "policy_id": 116,
+    "title": "Learning platform login policy edition 4",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-016"
+  },
+  {
+    "policy_id": 117,
+    "title": "Student portal password reset policy edition 5",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-017"
+  },
+  {
+    "policy_id": 118,
+    "title": "Account recovery policy edition 5",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-018"
+  },
+  {
+    "policy_id": 119,
+    "title": "Campus Wi-Fi access policy edition 5",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-019"
+  },
+  {
+    "policy_id": 120,
+    "title": "Learning platform login policy edition 5",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-020"
+  },
+  {
+    "policy_id": 121,
+    "title": "Student portal password reset policy edition 6",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-021"
+  },
+  {
+    "policy_id": 122,
+    "title": "Account recovery policy edition 6",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-022"
+  },
+  {
+    "policy_id": 123,
+    "title": "Campus Wi-Fi access policy edition 6",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-023"
+  },
+  {
+    "policy_id": 124,
+    "title": "Learning platform login policy edition 6",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-024"
+  },
+  {
+    "policy_id": 125,
+    "title": "Student portal password reset policy edition 7",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-025"
+  },
+  {
+    "policy_id": 126,
+    "title": "Account recovery policy edition 7",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-026"
+  },
+  {
+    "policy_id": 127,
+    "title": "Campus Wi-Fi access policy edition 7",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-027"
+  },
+  {
+    "policy_id": 128,
+    "title": "Learning platform login policy edition 7",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-028"
+  },
+  {
+    "policy_id": 129,
+    "title": "Student portal password reset policy edition 8",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-029"
+  },
+  {
+    "policy_id": 130,
+    "title": "Account recovery policy edition 8",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-030"
+  },
+  {
+    "policy_id": 131,
+    "title": "Campus Wi-Fi access policy edition 8",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-031"
+  },
+  {
+    "policy_id": 132,
+    "title": "Learning platform login policy edition 8",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-032"
+  },
+  {
+    "policy_id": 133,
+    "title": "Student portal password reset policy edition 9",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-033"
+  },
+  {
+    "policy_id": 134,
+    "title": "Account recovery policy edition 9",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-034"
+  },
+  {
+    "policy_id": 135,
+    "title": "Campus Wi-Fi access policy edition 9",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-035"
+  },
+  {
+    "policy_id": 136,
+    "title": "Learning platform login policy edition 9",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-036"
+  },
+  {
+    "policy_id": 137,
+    "title": "Student portal password reset policy edition 10",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-037"
+  },
+  {
+    "policy_id": 138,
+    "title": "Account recovery policy edition 10",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-038"
+  },
+  {
+    "policy_id": 139,
+    "title": "Campus Wi-Fi access policy edition 10",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-039"
+  },
+  {
+    "policy_id": 140,
+    "title": "Learning platform login policy edition 10",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-040"
+  },
+  {
+    "policy_id": 141,
+    "title": "Student portal password reset policy edition 11",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-041"
+  },
+  {
+    "policy_id": 142,
+    "title": "Account recovery policy edition 11",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-042"
+  },
+  {
+    "policy_id": 143,
+    "title": "Campus Wi-Fi access policy edition 11",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-043"
+  },
+  {
+    "policy_id": 144,
+    "title": "Learning platform login policy edition 11",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-044"
+  },
+  {
+    "policy_id": 145,
+    "title": "Student portal password reset policy edition 12",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-045"
+  },
+  {
+    "policy_id": 146,
+    "title": "Account recovery policy edition 12",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-046"
+  },
+  {
+    "policy_id": 147,
+    "title": "Campus Wi-Fi access policy edition 12",
+    "category_id": 3,
+    "version": 1,
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-047"
+  },
+  {
+    "policy_id": 148,
+    "title": "Learning platform login policy edition 12",
+    "category_id": 3,
+    "version": 2,
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-048"
+  },
+  {
+    "policy_id": 149,
+    "title": "Student portal password reset policy edition 13",
+    "category_id": 3,
+    "version": 1,
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-049"
+  },
+  {
+    "policy_id": 150,
+    "title": "Account recovery policy edition 13",
+    "category_id": 3,
+    "version": 2,
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-IT-2026-050"
+  },
+  {
+    "policy_id": 151,
+    "title": "Accessibility accommodation policy edition 1",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-001"
+  },
+  {
+    "policy_id": 152,
+    "title": "Assistive technology policy edition 1",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-002"
+  },
+  {
+    "policy_id": 153,
+    "title": "Accessible classroom policy edition 1",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-003"
+  },
+  {
+    "policy_id": 154,
+    "title": "Accessible course materials policy edition 1",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-004"
+  },
+  {
+    "policy_id": 155,
+    "title": "Accessibility accommodation policy edition 2",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-005"
+  },
+  {
+    "policy_id": 156,
+    "title": "Assistive technology policy edition 2",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-006"
+  },
+  {
+    "policy_id": 157,
+    "title": "Accessible classroom policy edition 2",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-007"
+  },
+  {
+    "policy_id": 158,
+    "title": "Accessible course materials policy edition 2",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-008"
+  },
+  {
+    "policy_id": 159,
+    "title": "Accessibility accommodation policy edition 3",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-009"
+  },
+  {
+    "policy_id": 160,
+    "title": "Assistive technology policy edition 3",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-010"
+  },
+  {
+    "policy_id": 161,
+    "title": "Accessible classroom policy edition 3",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-011"
+  },
+  {
+    "policy_id": 162,
+    "title": "Accessible course materials policy edition 3",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-012"
+  },
+  {
+    "policy_id": 163,
+    "title": "Accessibility accommodation policy edition 4",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-013"
+  },
+  {
+    "policy_id": 164,
+    "title": "Assistive technology policy edition 4",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-014"
+  },
+  {
+    "policy_id": 165,
+    "title": "Accessible classroom policy edition 4",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-015"
+  },
+  {
+    "policy_id": 166,
+    "title": "Accessible course materials policy edition 4",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-016"
+  },
+  {
+    "policy_id": 167,
+    "title": "Accessibility accommodation policy edition 5",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-017"
+  },
+  {
+    "policy_id": 168,
+    "title": "Assistive technology policy edition 5",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-018"
+  },
+  {
+    "policy_id": 169,
+    "title": "Accessible classroom policy edition 5",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-019"
+  },
+  {
+    "policy_id": 170,
+    "title": "Accessible course materials policy edition 5",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-020"
+  },
+  {
+    "policy_id": 171,
+    "title": "Accessibility accommodation policy edition 6",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-021"
+  },
+  {
+    "policy_id": 172,
+    "title": "Assistive technology policy edition 6",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-022"
+  },
+  {
+    "policy_id": 173,
+    "title": "Accessible classroom policy edition 6",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-023"
+  },
+  {
+    "policy_id": 174,
+    "title": "Accessible course materials policy edition 6",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-024"
+  },
+  {
+    "policy_id": 175,
+    "title": "Accessibility accommodation policy edition 7",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-025"
+  },
+  {
+    "policy_id": 176,
+    "title": "Assistive technology policy edition 7",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-026"
+  },
+  {
+    "policy_id": 177,
+    "title": "Accessible classroom policy edition 7",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-027"
+  },
+  {
+    "policy_id": 178,
+    "title": "Accessible course materials policy edition 7",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-028"
+  },
+  {
+    "policy_id": 179,
+    "title": "Accessibility accommodation policy edition 8",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-029"
+  },
+  {
+    "policy_id": 180,
+    "title": "Assistive technology policy edition 8",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-030"
+  },
+  {
+    "policy_id": 181,
+    "title": "Accessible classroom policy edition 8",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-031"
+  },
+  {
+    "policy_id": 182,
+    "title": "Accessible course materials policy edition 8",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-032"
+  },
+  {
+    "policy_id": 183,
+    "title": "Accessibility accommodation policy edition 9",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-033"
+  },
+  {
+    "policy_id": 184,
+    "title": "Assistive technology policy edition 9",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-034"
+  },
+  {
+    "policy_id": 185,
+    "title": "Accessible classroom policy edition 9",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-035"
+  },
+  {
+    "policy_id": 186,
+    "title": "Accessible course materials policy edition 9",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-036"
+  },
+  {
+    "policy_id": 187,
+    "title": "Accessibility accommodation policy edition 10",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-037"
+  },
+  {
+    "policy_id": 188,
+    "title": "Assistive technology policy edition 10",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-038"
+  },
+  {
+    "policy_id": 189,
+    "title": "Accessible classroom policy edition 10",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-039"
+  },
+  {
+    "policy_id": 190,
+    "title": "Accessible course materials policy edition 10",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-040"
+  },
+  {
+    "policy_id": 191,
+    "title": "Accessibility accommodation policy edition 11",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-041"
+  },
+  {
+    "policy_id": 192,
+    "title": "Assistive technology policy edition 11",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-042"
+  },
+  {
+    "policy_id": 193,
+    "title": "Accessible classroom policy edition 11",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-043"
+  },
+  {
+    "policy_id": 194,
+    "title": "Accessible course materials policy edition 11",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-044"
+  },
+  {
+    "policy_id": 195,
+    "title": "Accessibility accommodation policy edition 12",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-045"
+  },
+  {
+    "policy_id": 196,
+    "title": "Assistive technology policy edition 12",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-046"
+  },
+  {
+    "policy_id": 197,
+    "title": "Accessible classroom policy edition 12",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-047"
+  },
+  {
+    "policy_id": 198,
+    "title": "Accessible course materials policy edition 12",
+    "category_id": 4,
+    "version": 2,
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-048"
+  },
+  {
+    "policy_id": 199,
+    "title": "Accessibility accommodation policy edition 13",
+    "category_id": 4,
+    "version": 1,
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-049"
+  },
+  {
+    "policy_id": 200,
+    "title": "Assistive technology policy edition 13",
+    "category_id": 4,
+    "version": 2,
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "effective_from": "2026-01-01",
+    "effective_to": null,
+    "policy_code": "POL-ACCESSIBILITY-2026-050"
+  }
+]

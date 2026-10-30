@@ -1,0 +1,1402 @@
+[
+  {
+    "article_id": 1,
+    "policy_id": 1,
+    "title": "Scholarship application guide 1",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000001"
+  },
+  {
+    "article_id": 2,
+    "policy_id": 2,
+    "title": "Financial aid eligibility guide 1",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000002"
+  },
+  {
+    "article_id": 3,
+    "policy_id": 3,
+    "title": "Tuition assistance guide 1",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000003"
+  },
+  {
+    "article_id": 4,
+    "policy_id": 4,
+    "title": "Scholarship status guide 1",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000004"
+  },
+  {
+    "article_id": 5,
+    "policy_id": 5,
+    "title": "Scholarship application guide 2",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000005"
+  },
+  {
+    "article_id": 6,
+    "policy_id": 6,
+    "title": "Financial aid eligibility guide 2",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000006"
+  },
+  {
+    "article_id": 7,
+    "policy_id": 7,
+    "title": "Tuition assistance guide 2",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000007"
+  },
+  {
+    "article_id": 8,
+    "policy_id": 8,
+    "title": "Scholarship status guide 2",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000008"
+  },
+  {
+    "article_id": 9,
+    "policy_id": 9,
+    "title": "Scholarship application guide 3",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000009"
+  },
+  {
+    "article_id": 10,
+    "policy_id": 10,
+    "title": "Financial aid eligibility guide 3",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000010"
+  },
+  {
+    "article_id": 11,
+    "policy_id": 11,
+    "title": "Tuition assistance guide 3",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000011"
+  },
+  {
+    "article_id": 12,
+    "policy_id": 12,
+    "title": "Scholarship status guide 3",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000012"
+  },
+  {
+    "article_id": 13,
+    "policy_id": 13,
+    "title": "Scholarship application guide 4",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000013"
+  },
+  {
+    "article_id": 14,
+    "policy_id": 14,
+    "title": "Financial aid eligibility guide 4",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000014"
+  },
+  {
+    "article_id": 15,
+    "policy_id": 15,
+    "title": "Tuition assistance guide 4",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000015"
+  },
+  {
+    "article_id": 16,
+    "policy_id": 16,
+    "title": "Scholarship status guide 4",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000016"
+  },
+  {
+    "article_id": 17,
+    "policy_id": 17,
+    "title": "Scholarship application guide 5",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000017"
+  },
+  {
+    "article_id": 18,
+    "policy_id": 18,
+    "title": "Financial aid eligibility guide 5",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000018"
+  },
+  {
+    "article_id": 19,
+    "policy_id": 19,
+    "title": "Tuition assistance guide 5",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000019"
+  },
+  {
+    "article_id": 20,
+    "policy_id": 20,
+    "title": "Scholarship status guide 5",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000020"
+  },
+  {
+    "article_id": 21,
+    "policy_id": 21,
+    "title": "Scholarship application guide 6",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000021"
+  },
+  {
+    "article_id": 22,
+    "policy_id": 22,
+    "title": "Financial aid eligibility guide 6",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000022"
+  },
+  {
+    "article_id": 23,
+    "policy_id": 23,
+    "title": "Tuition assistance guide 6",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000023"
+  },
+  {
+    "article_id": 24,
+    "policy_id": 24,
+    "title": "Scholarship status guide 6",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000024"
+  },
+  {
+    "article_id": 25,
+    "policy_id": 25,
+    "title": "Scholarship application guide 7",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000025"
+  },
+  {
+    "article_id": 26,
+    "policy_id": 26,
+    "title": "Financial aid eligibility guide 7",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000026"
+  },
+  {
+    "article_id": 27,
+    "policy_id": 27,
+    "title": "Tuition assistance guide 7",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000027"
+  },
+  {
+    "article_id": 28,
+    "policy_id": 28,
+    "title": "Scholarship status guide 7",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000028"
+  },
+  {
+    "article_id": 29,
+    "policy_id": 29,
+    "title": "Scholarship application guide 8",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000029"
+  },
+  {
+    "article_id": 30,
+    "policy_id": 30,
+    "title": "Financial aid eligibility guide 8",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000030"
+  },
+  {
+    "article_id": 31,
+    "policy_id": 31,
+    "title": "Tuition assistance guide 8",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000031"
+  },
+  {
+    "article_id": 32,
+    "policy_id": 32,
+    "title": "Scholarship status guide 8",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000032"
+  },
+  {
+    "article_id": 33,
+    "policy_id": 33,
+    "title": "Scholarship application guide 9",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000033"
+  },
+  {
+    "article_id": 34,
+    "policy_id": 34,
+    "title": "Financial aid eligibility guide 9",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000034"
+  },
+  {
+    "article_id": 35,
+    "policy_id": 35,
+    "title": "Tuition assistance guide 9",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000035"
+  },
+  {
+    "article_id": 36,
+    "policy_id": 36,
+    "title": "Scholarship status guide 9",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000036"
+  },
+  {
+    "article_id": 37,
+    "policy_id": 37,
+    "title": "Scholarship application guide 10",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000037"
+  },
+  {
+    "article_id": 38,
+    "policy_id": 38,
+    "title": "Financial aid eligibility guide 10",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000038"
+  },
+  {
+    "article_id": 39,
+    "policy_id": 39,
+    "title": "Tuition assistance guide 10",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000039"
+  },
+  {
+    "article_id": 40,
+    "policy_id": 40,
+    "title": "Scholarship status guide 10",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000040"
+  },
+  {
+    "article_id": 41,
+    "policy_id": 41,
+    "title": "Scholarship application guide 11",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000041"
+  },
+  {
+    "article_id": 42,
+    "policy_id": 42,
+    "title": "Financial aid eligibility guide 11",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000042"
+  },
+  {
+    "article_id": 43,
+    "policy_id": 43,
+    "title": "Tuition assistance guide 11",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000043"
+  },
+  {
+    "article_id": 44,
+    "policy_id": 44,
+    "title": "Scholarship status guide 11",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000044"
+  },
+  {
+    "article_id": 45,
+    "policy_id": 45,
+    "title": "Scholarship application guide 12",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000045"
+  },
+  {
+    "article_id": 46,
+    "policy_id": 46,
+    "title": "Financial aid eligibility guide 12",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000046"
+  },
+  {
+    "article_id": 47,
+    "policy_id": 47,
+    "title": "Tuition assistance guide 12",
+    "content": "Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.",
+    "article_code": "KB-000047"
+  },
+  {
+    "article_id": 48,
+    "policy_id": 48,
+    "title": "Scholarship status guide 12",
+    "content": "Students can request the current status of a submitted scholarship application through the Financial Aid Team.",
+    "article_code": "KB-000048"
+  },
+  {
+    "article_id": 49,
+    "policy_id": 49,
+    "title": "Scholarship application guide 13",
+    "content": "Applicants must submit a completed scholarship application and required documents before the published deadline.",
+    "article_code": "KB-000049"
+  },
+  {
+    "article_id": 50,
+    "policy_id": 50,
+    "title": "Financial aid eligibility guide 13",
+    "content": "Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.",
+    "article_code": "KB-000050"
+  },
+  {
+    "article_id": 51,
+    "policy_id": 51,
+    "title": "Course registration guide 1",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000051"
+  },
+  {
+    "article_id": 52,
+    "policy_id": 52,
+    "title": "Registration deadline guide 1",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000052"
+  },
+  {
+    "article_id": 53,
+    "policy_id": 53,
+    "title": "Enrollment verification guide 1",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000053"
+  },
+  {
+    "article_id": 54,
+    "policy_id": 54,
+    "title": "Course change guide 1",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000054"
+  },
+  {
+    "article_id": 55,
+    "policy_id": 55,
+    "title": "Course registration guide 2",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000055"
+  },
+  {
+    "article_id": 56,
+    "policy_id": 56,
+    "title": "Registration deadline guide 2",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000056"
+  },
+  {
+    "article_id": 57,
+    "policy_id": 57,
+    "title": "Enrollment verification guide 2",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000057"
+  },
+  {
+    "article_id": 58,
+    "policy_id": 58,
+    "title": "Course change guide 2",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000058"
+  },
+  {
+    "article_id": 59,
+    "policy_id": 59,
+    "title": "Course registration guide 3",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000059"
+  },
+  {
+    "article_id": 60,
+    "policy_id": 60,
+    "title": "Registration deadline guide 3",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000060"
+  },
+  {
+    "article_id": 61,
+    "policy_id": 61,
+    "title": "Enrollment verification guide 3",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000061"
+  },
+  {
+    "article_id": 62,
+    "policy_id": 62,
+    "title": "Course change guide 3",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000062"
+  },
+  {
+    "article_id": 63,
+    "policy_id": 63,
+    "title": "Course registration guide 4",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000063"
+  },
+  {
+    "article_id": 64,
+    "policy_id": 64,
+    "title": "Registration deadline guide 4",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000064"
+  },
+  {
+    "article_id": 65,
+    "policy_id": 65,
+    "title": "Enrollment verification guide 4",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000065"
+  },
+  {
+    "article_id": 66,
+    "policy_id": 66,
+    "title": "Course change guide 4",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000066"
+  },
+  {
+    "article_id": 67,
+    "policy_id": 67,
+    "title": "Course registration guide 5",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000067"
+  },
+  {
+    "article_id": 68,
+    "policy_id": 68,
+    "title": "Registration deadline guide 5",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000068"
+  },
+  {
+    "article_id": 69,
+    "policy_id": 69,
+    "title": "Enrollment verification guide 5",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000069"
+  },
+  {
+    "article_id": 70,
+    "policy_id": 70,
+    "title": "Course change guide 5",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000070"
+  },
+  {
+    "article_id": 71,
+    "policy_id": 71,
+    "title": "Course registration guide 6",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000071"
+  },
+  {
+    "article_id": 72,
+    "policy_id": 72,
+    "title": "Registration deadline guide 6",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000072"
+  },
+  {
+    "article_id": 73,
+    "policy_id": 73,
+    "title": "Enrollment verification guide 6",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000073"
+  },
+  {
+    "article_id": 74,
+    "policy_id": 74,
+    "title": "Course change guide 6",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000074"
+  },
+  {
+    "article_id": 75,
+    "policy_id": 75,
+    "title": "Course registration guide 7",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000075"
+  },
+  {
+    "article_id": 76,
+    "policy_id": 76,
+    "title": "Registration deadline guide 7",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000076"
+  },
+  {
+    "article_id": 77,
+    "policy_id": 77,
+    "title": "Enrollment verification guide 7",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000077"
+  },
+  {
+    "article_id": 78,
+    "policy_id": 78,
+    "title": "Course change guide 7",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000078"
+  },
+  {
+    "article_id": 79,
+    "policy_id": 79,
+    "title": "Course registration guide 8",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000079"
+  },
+  {
+    "article_id": 80,
+    "policy_id": 80,
+    "title": "Registration deadline guide 8",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000080"
+  },
+  {
+    "article_id": 81,
+    "policy_id": 81,
+    "title": "Enrollment verification guide 8",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000081"
+  },
+  {
+    "article_id": 82,
+    "policy_id": 82,
+    "title": "Course change guide 8",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000082"
+  },
+  {
+    "article_id": 83,
+    "policy_id": 83,
+    "title": "Course registration guide 9",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000083"
+  },
+  {
+    "article_id": 84,
+    "policy_id": 84,
+    "title": "Registration deadline guide 9",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000084"
+  },
+  {
+    "article_id": 85,
+    "policy_id": 85,
+    "title": "Enrollment verification guide 9",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000085"
+  },
+  {
+    "article_id": 86,
+    "policy_id": 86,
+    "title": "Course change guide 9",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000086"
+  },
+  {
+    "article_id": 87,
+    "policy_id": 87,
+    "title": "Course registration guide 10",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000087"
+  },
+  {
+    "article_id": 88,
+    "policy_id": 88,
+    "title": "Registration deadline guide 10",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000088"
+  },
+  {
+    "article_id": 89,
+    "policy_id": 89,
+    "title": "Enrollment verification guide 10",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000089"
+  },
+  {
+    "article_id": 90,
+    "policy_id": 90,
+    "title": "Course change guide 10",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000090"
+  },
+  {
+    "article_id": 91,
+    "policy_id": 91,
+    "title": "Course registration guide 11",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000091"
+  },
+  {
+    "article_id": 92,
+    "policy_id": 92,
+    "title": "Registration deadline guide 11",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000092"
+  },
+  {
+    "article_id": 93,
+    "policy_id": 93,
+    "title": "Enrollment verification guide 11",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000093"
+  },
+  {
+    "article_id": 94,
+    "policy_id": 94,
+    "title": "Course change guide 11",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000094"
+  },
+  {
+    "article_id": 95,
+    "policy_id": 95,
+    "title": "Course registration guide 12",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000095"
+  },
+  {
+    "article_id": 96,
+    "policy_id": 96,
+    "title": "Registration deadline guide 12",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000096"
+  },
+  {
+    "article_id": 97,
+    "policy_id": 97,
+    "title": "Enrollment verification guide 12",
+    "content": "Enrollment verification is issued after registration records have been confirmed by the Registration Team.",
+    "article_code": "KB-000097"
+  },
+  {
+    "article_id": 98,
+    "policy_id": 98,
+    "title": "Course change guide 12",
+    "content": "Course change requests are subject to available seats and the published add-drop period.",
+    "article_code": "KB-000098"
+  },
+  {
+    "article_id": 99,
+    "policy_id": 99,
+    "title": "Course registration guide 13",
+    "content": "Students should use the registration portal during the published enrollment window to register for eligible courses.",
+    "article_code": "KB-000099"
+  },
+  {
+    "article_id": 100,
+    "policy_id": 100,
+    "title": "Registration deadline guide 13",
+    "content": "Late registration requires review by the Registration Team and is not guaranteed.",
+    "article_code": "KB-000100"
+  },
+  {
+    "article_id": 101,
+    "policy_id": 101,
+    "title": "Student portal password reset guide 1",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000101"
+  },
+  {
+    "article_id": 102,
+    "policy_id": 102,
+    "title": "Account recovery guide 1",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000102"
+  },
+  {
+    "article_id": 103,
+    "policy_id": 103,
+    "title": "Campus Wi-Fi access guide 1",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000103"
+  },
+  {
+    "article_id": 104,
+    "policy_id": 104,
+    "title": "Learning platform login guide 1",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000104"
+  },
+  {
+    "article_id": 105,
+    "policy_id": 105,
+    "title": "Student portal password reset guide 2",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000105"
+  },
+  {
+    "article_id": 106,
+    "policy_id": 106,
+    "title": "Account recovery guide 2",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000106"
+  },
+  {
+    "article_id": 107,
+    "policy_id": 107,
+    "title": "Campus Wi-Fi access guide 2",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000107"
+  },
+  {
+    "article_id": 108,
+    "policy_id": 108,
+    "title": "Learning platform login guide 2",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000108"
+  },
+  {
+    "article_id": 109,
+    "policy_id": 109,
+    "title": "Student portal password reset guide 3",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000109"
+  },
+  {
+    "article_id": 110,
+    "policy_id": 110,
+    "title": "Account recovery guide 3",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000110"
+  },
+  {
+    "article_id": 111,
+    "policy_id": 111,
+    "title": "Campus Wi-Fi access guide 3",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000111"
+  },
+  {
+    "article_id": 112,
+    "policy_id": 112,
+    "title": "Learning platform login guide 3",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000112"
+  },
+  {
+    "article_id": 113,
+    "policy_id": 113,
+    "title": "Student portal password reset guide 4",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000113"
+  },
+  {
+    "article_id": 114,
+    "policy_id": 114,
+    "title": "Account recovery guide 4",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000114"
+  },
+  {
+    "article_id": 115,
+    "policy_id": 115,
+    "title": "Campus Wi-Fi access guide 4",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000115"
+  },
+  {
+    "article_id": 116,
+    "policy_id": 116,
+    "title": "Learning platform login guide 4",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000116"
+  },
+  {
+    "article_id": 117,
+    "policy_id": 117,
+    "title": "Student portal password reset guide 5",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000117"
+  },
+  {
+    "article_id": 118,
+    "policy_id": 118,
+    "title": "Account recovery guide 5",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000118"
+  },
+  {
+    "article_id": 119,
+    "policy_id": 119,
+    "title": "Campus Wi-Fi access guide 5",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000119"
+  },
+  {
+    "article_id": 120,
+    "policy_id": 120,
+    "title": "Learning platform login guide 5",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000120"
+  },
+  {
+    "article_id": 121,
+    "policy_id": 121,
+    "title": "Student portal password reset guide 6",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000121"
+  },
+  {
+    "article_id": 122,
+    "policy_id": 122,
+    "title": "Account recovery guide 6",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000122"
+  },
+  {
+    "article_id": 123,
+    "policy_id": 123,
+    "title": "Campus Wi-Fi access guide 6",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000123"
+  },
+  {
+    "article_id": 124,
+    "policy_id": 124,
+    "title": "Learning platform login guide 6",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000124"
+  },
+  {
+    "article_id": 125,
+    "policy_id": 125,
+    "title": "Student portal password reset guide 7",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000125"
+  },
+  {
+    "article_id": 126,
+    "policy_id": 126,
+    "title": "Account recovery guide 7",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000126"
+  },
+  {
+    "article_id": 127,
+    "policy_id": 127,
+    "title": "Campus Wi-Fi access guide 7",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000127"
+  },
+  {
+    "article_id": 128,
+    "policy_id": 128,
+    "title": "Learning platform login guide 7",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000128"
+  },
+  {
+    "article_id": 129,
+    "policy_id": 129,
+    "title": "Student portal password reset guide 8",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000129"
+  },
+  {
+    "article_id": 130,
+    "policy_id": 130,
+    "title": "Account recovery guide 8",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000130"
+  },
+  {
+    "article_id": 131,
+    "policy_id": 131,
+    "title": "Campus Wi-Fi access guide 8",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000131"
+  },
+  {
+    "article_id": 132,
+    "policy_id": 132,
+    "title": "Learning platform login guide 8",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000132"
+  },
+  {
+    "article_id": 133,
+    "policy_id": 133,
+    "title": "Student portal password reset guide 9",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000133"
+  },
+  {
+    "article_id": 134,
+    "policy_id": 134,
+    "title": "Account recovery guide 9",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000134"
+  },
+  {
+    "article_id": 135,
+    "policy_id": 135,
+    "title": "Campus Wi-Fi access guide 9",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000135"
+  },
+  {
+    "article_id": 136,
+    "policy_id": 136,
+    "title": "Learning platform login guide 9",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000136"
+  },
+  {
+    "article_id": 137,
+    "policy_id": 137,
+    "title": "Student portal password reset guide 10",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000137"
+  },
+  {
+    "article_id": 138,
+    "policy_id": 138,
+    "title": "Account recovery guide 10",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000138"
+  },
+  {
+    "article_id": 139,
+    "policy_id": 139,
+    "title": "Campus Wi-Fi access guide 10",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000139"
+  },
+  {
+    "article_id": 140,
+    "policy_id": 140,
+    "title": "Learning platform login guide 10",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000140"
+  },
+  {
+    "article_id": 141,
+    "policy_id": 141,
+    "title": "Student portal password reset guide 11",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000141"
+  },
+  {
+    "article_id": 142,
+    "policy_id": 142,
+    "title": "Account recovery guide 11",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000142"
+  },
+  {
+    "article_id": 143,
+    "policy_id": 143,
+    "title": "Campus Wi-Fi access guide 11",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000143"
+  },
+  {
+    "article_id": 144,
+    "policy_id": 144,
+    "title": "Learning platform login guide 11",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000144"
+  },
+  {
+    "article_id": 145,
+    "policy_id": 145,
+    "title": "Student portal password reset guide 12",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000145"
+  },
+  {
+    "article_id": 146,
+    "policy_id": 146,
+    "title": "Account recovery guide 12",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000146"
+  },
+  {
+    "article_id": 147,
+    "policy_id": 147,
+    "title": "Campus Wi-Fi access guide 12",
+    "content": "Campus Wi-Fi connection issues should be reported to IT with the device type and location.",
+    "article_code": "KB-000147"
+  },
+  {
+    "article_id": 148,
+    "policy_id": 148,
+    "title": "Learning platform login guide 12",
+    "content": "Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.",
+    "article_code": "KB-000148"
+  },
+  {
+    "article_id": 149,
+    "policy_id": 149,
+    "title": "Student portal password reset guide 13",
+    "content": "Students unable to access the student portal should submit an IT support request for approved password-reset assistance.",
+    "article_code": "KB-000149"
+  },
+  {
+    "article_id": 150,
+    "policy_id": 150,
+    "title": "Account recovery guide 13",
+    "content": "The IT Support Team verifies account ownership before providing approved account-recovery instructions.",
+    "article_code": "KB-000150"
+  },
+  {
+    "article_id": 151,
+    "policy_id": 151,
+    "title": "Accessibility accommodation guide 1",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000151"
+  },
+  {
+    "article_id": 152,
+    "policy_id": 152,
+    "title": "Assistive technology guide 1",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000152"
+  },
+  {
+    "article_id": 153,
+    "policy_id": 153,
+    "title": "Accessible classroom guide 1",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000153"
+  },
+  {
+    "article_id": 154,
+    "policy_id": 154,
+    "title": "Accessible course materials guide 1",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000154"
+  },
+  {
+    "article_id": 155,
+    "policy_id": 155,
+    "title": "Accessibility accommodation guide 2",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000155"
+  },
+  {
+    "article_id": 156,
+    "policy_id": 156,
+    "title": "Assistive technology guide 2",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000156"
+  },
+  {
+    "article_id": 157,
+    "policy_id": 157,
+    "title": "Accessible classroom guide 2",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000157"
+  },
+  {
+    "article_id": 158,
+    "policy_id": 158,
+    "title": "Accessible course materials guide 2",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000158"
+  },
+  {
+    "article_id": 159,
+    "policy_id": 159,
+    "title": "Accessibility accommodation guide 3",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000159"
+  },
+  {
+    "article_id": 160,
+    "policy_id": 160,
+    "title": "Assistive technology guide 3",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000160"
+  },
+  {
+    "article_id": 161,
+    "policy_id": 161,
+    "title": "Accessible classroom guide 3",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000161"
+  },
+  {
+    "article_id": 162,
+    "policy_id": 162,
+    "title": "Accessible course materials guide 3",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000162"
+  },
+  {
+    "article_id": 163,
+    "policy_id": 163,
+    "title": "Accessibility accommodation guide 4",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000163"
+  },
+  {
+    "article_id": 164,
+    "policy_id": 164,
+    "title": "Assistive technology guide 4",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000164"
+  },
+  {
+    "article_id": 165,
+    "policy_id": 165,
+    "title": "Accessible classroom guide 4",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000165"
+  },
+  {
+    "article_id": 166,
+    "policy_id": 166,
+    "title": "Accessible course materials guide 4",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000166"
+  },
+  {
+    "article_id": 167,
+    "policy_id": 167,
+    "title": "Accessibility accommodation guide 5",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000167"
+  },
+  {
+    "article_id": 168,
+    "policy_id": 168,
+    "title": "Assistive technology guide 5",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000168"
+  },
+  {
+    "article_id": 169,
+    "policy_id": 169,
+    "title": "Accessible classroom guide 5",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000169"
+  },
+  {
+    "article_id": 170,
+    "policy_id": 170,
+    "title": "Accessible course materials guide 5",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000170"
+  },
+  {
+    "article_id": 171,
+    "policy_id": 171,
+    "title": "Accessibility accommodation guide 6",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000171"
+  },
+  {
+    "article_id": 172,
+    "policy_id": 172,
+    "title": "Assistive technology guide 6",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000172"
+  },
+  {
+    "article_id": 173,
+    "policy_id": 173,
+    "title": "Accessible classroom guide 6",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000173"
+  },
+  {
+    "article_id": 174,
+    "policy_id": 174,
+    "title": "Accessible course materials guide 6",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000174"
+  },
+  {
+    "article_id": 175,
+    "policy_id": 175,
+    "title": "Accessibility accommodation guide 7",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000175"
+  },
+  {
+    "article_id": 176,
+    "policy_id": 176,
+    "title": "Assistive technology guide 7",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000176"
+  },
+  {
+    "article_id": 177,
+    "policy_id": 177,
+    "title": "Accessible classroom guide 7",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000177"
+  },
+  {
+    "article_id": 178,
+    "policy_id": 178,
+    "title": "Accessible course materials guide 7",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000178"
+  },
+  {
+    "article_id": 179,
+    "policy_id": 179,
+    "title": "Accessibility accommodation guide 8",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000179"
+  },
+  {
+    "article_id": 180,
+    "policy_id": 180,
+    "title": "Assistive technology guide 8",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000180"
+  },
+  {
+    "article_id": 181,
+    "policy_id": 181,
+    "title": "Accessible classroom guide 8",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000181"
+  },
+  {
+    "article_id": 182,
+    "policy_id": 182,
+    "title": "Accessible course materials guide 8",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000182"
+  },
+  {
+    "article_id": 183,
+    "policy_id": 183,
+    "title": "Accessibility accommodation guide 9",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000183"
+  },
+  {
+    "article_id": 184,
+    "policy_id": 184,
+    "title": "Assistive technology guide 9",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000184"
+  },
+  {
+    "article_id": 185,
+    "policy_id": 185,
+    "title": "Accessible classroom guide 9",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000185"
+  },
+  {
+    "article_id": 186,
+    "policy_id": 186,
+    "title": "Accessible course materials guide 9",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000186"
+  },
+  {
+    "article_id": 187,
+    "policy_id": 187,
+    "title": "Accessibility accommodation guide 10",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000187"
+  },
+  {
+    "article_id": 188,
+    "policy_id": 188,
+    "title": "Assistive technology guide 10",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000188"
+  },
+  {
+    "article_id": 189,
+    "policy_id": 189,
+    "title": "Accessible classroom guide 10",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000189"
+  },
+  {
+    "article_id": 190,
+    "policy_id": 190,
+    "title": "Accessible course materials guide 10",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000190"
+  },
+  {
+    "article_id": 191,
+    "policy_id": 191,
+    "title": "Accessibility accommodation guide 11",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000191"
+  },
+  {
+    "article_id": 192,
+    "policy_id": 192,
+    "title": "Assistive technology guide 11",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000192"
+  },
+  {
+    "article_id": 193,
+    "policy_id": 193,
+    "title": "Accessible classroom guide 11",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000193"
+  },
+  {
+    "article_id": 194,
+    "policy_id": 194,
+    "title": "Accessible course materials guide 11",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000194"
+  },
+  {
+    "article_id": 195,
+    "policy_id": 195,
+    "title": "Accessibility accommodation guide 12",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000195"
+  },
+  {
+    "article_id": 196,
+    "policy_id": 196,
+    "title": "Assistive technology guide 12",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000196"
+  },
+  {
+    "article_id": 197,
+    "policy_id": 197,
+    "title": "Accessible classroom guide 12",
+    "content": "Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.",
+    "article_code": "KB-000197"
+  },
+  {
+    "article_id": 198,
+    "policy_id": 198,
+    "title": "Accessible course materials guide 12",
+    "content": "Students may request accessible course materials through Accessibility Services for review and coordination.",
+    "article_code": "KB-000198"
+  },
+  {
+    "article_id": 199,
+    "policy_id": 199,
+    "title": "Accessibility accommodation guide 13",
+    "content": "Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.",
+    "article_code": "KB-000199"
+  },
+  {
+    "article_id": 200,
+    "policy_id": 200,
+    "title": "Assistive technology guide 13",
+    "content": "Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.",
+    "article_code": "KB-000200"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "term_id": 1,
+    "term_name": "Spring 2026",
+    "start_date": "2026-01-01",
+    "end_date": "2026-05-31"
+  },
+  {
+    "term_id": 2,
+    "term_name": "Summer 2026",
+    "start_date": "2026-06-01",
+    "end_date": "2026-07-31"
+  },
+  {
+    "term_id": 3,
+    "term_name": "Fall 2026",
+    "start_date": "2026-08-01",
+    "end_date": "2026-12-31"
+  }
+]

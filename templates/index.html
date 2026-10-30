@@ -1,0 +1,117 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard | CampusResolve{% endblock %}
+
+{% block extra_head %}
+<style>
+    .dashboard-page { max-width: 1200px; margin: 0 auto; padding: 45px 24px 30px; }
+    .dashboard-welcome { margin-bottom: 32px; }
+    .dashboard-welcome h1 { color: #243B35; font-size: clamp(28px, 4vw, 38px); margin-bottom: 10px; }
+    .dashboard-welcome p { color: #61736A; font-size: 16px; line-height: 1.6; }
+    .dashboard-stats { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 18px; margin-bottom: 35px; }
+    .dashboard-stat-card { background: #FFFFFF; border: 1px solid #E3EBE3; border-radius: 14px; padding: 23px 18px; box-shadow: 0 5px 20px rgba(36, 59, 53, 0.05); }
+    .dashboard-stat-label { color: #61736A; font-size: 14px; font-weight: 600; margin-bottom: 14px; }
+    .dashboard-stat-number { color: #243B35; font-size: 32px; font-weight: 700; margin: 0; }
+    .dashboard-stat-card.total { border-top: 4px solid #243B35; }
+    .dashboard-stat-card.open { border-top: 4px solid #B7C9B1; }
+    .dashboard-stat-card.progress { border-top: 4px solid #6B8E7B; }
+    .dashboard-stat-card.resolved { border-top: 4px solid #4D8064; }
+    .dashboard-stat-card.escalated { border-top: 4px solid #D8B47C; }
+    .dashboard-panel { background: #FFFFFF; border: 1px solid #E3EBE3; border-radius: 14px; padding: 26px; margin-bottom: 28px; box-shadow: 0 5px 20px rgba(36, 59, 53, 0.05); }
+    .dashboard-panel-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 15px; margin-bottom: 22px; }
+    .dashboard-panel h2 { color: #243B35; font-size: 23px; margin: 0; }
+    .dashboard-table-wrap { width: 100%; overflow-x: auto; }
+    .dashboard-table { width: 100%; min-width: 650px; border-collapse: collapse; }
+    .dashboard-table th { background: #E8F0E7; color: #243B35; text-align: left; padding: 15px; font-size: 14px; }
+    .dashboard-table td { padding: 15px; border-bottom: 1px solid #E7EDE8; color: #344C43; }
+    .dashboard-table tbody tr:hover { background: #F8FAF7; }
+    .dashboard-status { display: inline-block; padding: 6px 11px; border-radius: 20px; font-size: 12px; font-weight: 700; background: #EDF1ED; color: #243B35; white-space: nowrap; }
+    .dashboard-status.open { background: #E7EFE4; color: #46634D; }
+    .dashboard-status.in-progress { background: #E2EEE7; color: #37674D; }
+    .dashboard-status.resolved { background: #DCEFE1; color: #276243; }
+    .dashboard-status.escalated { background: #F8EBD5; color: #8B6326; }
+    .dashboard-empty { text-align: center; padding: 25px; color: #61736A; }
+    .dashboard-info { background: #F1E9D2; border-radius: 12px; padding: 24px; }
+    .dashboard-info h2 { color: #243B35; font-size: 21px; margin-bottom: 10px; }
+    .dashboard-info p { color: #465B50; line-height: 1.7; }
+    .dashboard-tag { display: inline-block; background: #E8F0E7; color: #34594A; border-radius: 20px; padding: 6px 12px; font-size: 13px; font-weight: 700; margin-bottom: 14px; }
+    .dashboard-note { color: #61736A; font-size: 14px; line-height: 1.6; margin: 10px 0 24px; }
+    .category-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; }
+    .category-card { border: 1px solid #E3EBE3; border-radius: 12px; background: #F8FAF7; padding: 20px; }
+    .category-card strong { display: block; color: #243B35; font-size: 27px; margin-top: 10px; }
+    .category-card span { color: #61736A; font-size: 14px; }
+    @media (max-width: 1100px) { .dashboard-stats { grid-template-columns: repeat(3, minmax(0, 1fr)); } .category-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    @media (max-width: 768px) { .dashboard-page { padding: 28px 16px; } .dashboard-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; } .dashboard-stat-card { padding: 18px 14px; } .dashboard-stat-number { font-size: 27px; } .dashboard-panel { padding: 18px; } }
+    @media (max-width: 480px) { .dashboard-stats, .category-grid { grid-template-columns: 1fr; } .dashboard-panel-header { align-items: flex-start; } }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="dashboard-page">
+    <section class="dashboard-welcome">
+        <h1>CampusResolve Dashboard</h1>
+        <p>Manage student and faculty support requests, track ticket progress, and monitor resolutions in one place.</p>
+    </section>
+
+    {% if synthetic_available %}
+        <span class="dashboard-tag">Synthetic Dataset Overview</span>
+        <p class="dashboard-note">These statistics come from the separate 5,000-ticket synthetic dataset used for challenge evaluation. They do not include newly created live tickets.</p>
+    {% else %}
+        <span class="dashboard-tag">Live Demo Overview</span>
+        <p class="dashboard-note">Synthetic dataset not found. Showing live ticket counts instead. Place synthetic_campusresolve.db in the CampusResolve project folder to see synthetic statistics.</p>
+    {% endif %}
+
+    <section class="dashboard-stats">
+        <div class="dashboard-stat-card total"><p class="dashboard-stat-label">Total Tickets</p><p class="dashboard-stat-number">{{ stats.total }}</p></div>
+        <div class="dashboard-stat-card open"><p class="dashboard-stat-label">Open Tickets</p><p class="dashboard-stat-number">{{ stats.open }}</p></div>
+        <div class="dashboard-stat-card progress"><p class="dashboard-stat-label">In Progress</p><p class="dashboard-stat-number">{{ stats.in_progress }}</p></div>
+        <div class="dashboard-stat-card resolved"><p class="dashboard-stat-label">Resolved</p><p class="dashboard-stat-number">{{ stats.resolved }}</p></div>
+        <div class="dashboard-stat-card escalated"><p class="dashboard-stat-label">Escalated</p><p class="dashboard-stat-number">{{ stats.escalated }}</p></div>
+    </section>
+
+    {% if synthetic_available %}
+    <section class="dashboard-panel">
+        <div class="dashboard-panel-header"><h2>Tickets by Support Category</h2></div>
+        <div class="category-grid">
+            {% for category in category_stats %}
+            <div class="category-card">
+                <span>{{ category.category_name }}</span>
+                <strong>{{ category.ticket_count }}</strong>
+            </div>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <section class="dashboard-panel">
+        <div class="dashboard-panel-header">
+            <h2>Recent Live Support Tickets</h2>
+            <a href="{{ url_for('create_ticket') }}" class="shared-button">+ Create Ticket</a>
+        </div>
+        <p class="dashboard-note">Live requests are stored separately. Current live ticket count: {{ live_stats.total }}.</p>
+        <div class="dashboard-table-wrap">
+            <table class="dashboard-table">
+                <thead><tr><th>Ticket ID</th><th>Subject</th><th>Category</th><th>Status</th></tr></thead>
+                <tbody>
+                    {% for ticket in recent_tickets %}
+                    <tr>
+                        <td><a href="{{ url_for('ticket_details', ticket_id=ticket.ticket_id) }}">{{ ticket.id }}</a></td>
+                        <td>{{ ticket.subject }}</td>
+                        <td>{{ ticket.category }}</td>
+                        <td><span class="dashboard-status {{ ticket.status|lower|replace(' ', '-') }}">{{ ticket.status }}</span></td>
+                    </tr>
+                    {% else %}
+                    <tr><td colspan="4" class="dashboard-empty">No live tickets yet. Create your first support ticket.</td></tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <section class="dashboard-info">
+        <h2>About CampusResolve</h2>
+        <p>CampusResolve is a student and faculty support management system designed to organize campus requests across Financial Aid, Registration, IT, and Accessibility services.</p>
+        <p>The system helps track requests from submission through assignment, resolution, and escalation.</p>
+    </section>
+</div>
+{% endblock %}

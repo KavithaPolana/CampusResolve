@@ -1,0 +1,26 @@
+[
+  {
+    "rule_id": 1,
+    "category_id": 1,
+    "team_name": "Financial Aid Team",
+    "is_authorized": 1
+  },
+  {
+    "rule_id": 2,
+    "category_id": 2,
+    "team_name": "Registration Team",
+    "is_authorized": 1
+  },
+  {
+    "rule_id": 3,
+    "category_id": 3,
+    "team_name": "IT Support Team",
+    "is_authorized": 1
+  },
+  {
+    "rule_id": 4,
+    "category_id": 4,
+    "team_name": "Accessibility Services",
+    "is_authorized": 1
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Financial Aid",
+    "support_team": "Financial Aid Team",
+    "resolution_hours": 16
+  },
+  {
+    "category_id": 2,
+    "category_name": "Registration",
+    "support_team": "Registration Team",
+    "resolution_hours": 16
+  },
+  {
+    "category_id": 3,
+    "category_name": "IT",
+    "support_team": "IT Support Team",
+    "resolution_hours": 8
+  },
+  {
+    "category_id": 4,
+    "category_name": "Accessibility",
+    "support_team": "Accessibility Services",
+    "resolution_hours": 24
+  }
+]

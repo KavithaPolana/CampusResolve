@@ -1,0 +1,5 @@
+rule_id,category_id,team_name,is_authorized
+1,1,Financial Aid Team,1
+2,2,Registration Team,1
+3,3,IT Support Team,1
+4,4,Accessibility Services,1

@@ -1,0 +1,201 @@
+article_id,policy_id,title,content,article_code
+1,1,Scholarship application guide 1,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000001
+2,2,Financial aid eligibility guide 1,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000002
+3,3,Tuition assistance guide 1,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000003
+4,4,Scholarship status guide 1,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000004
+5,5,Scholarship application guide 2,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000005
+6,6,Financial aid eligibility guide 2,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000006
+7,7,Tuition assistance guide 2,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000007
+8,8,Scholarship status guide 2,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000008
+9,9,Scholarship application guide 3,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000009
+10,10,Financial aid eligibility guide 3,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000010
+11,11,Tuition assistance guide 3,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000011
+12,12,Scholarship status guide 3,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000012
+13,13,Scholarship application guide 4,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000013
+14,14,Financial aid eligibility guide 4,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000014
+15,15,Tuition assistance guide 4,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000015
+16,16,Scholarship status guide 4,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000016
+17,17,Scholarship application guide 5,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000017
+18,18,Financial aid eligibility guide 5,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000018
+19,19,Tuition assistance guide 5,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000019
+20,20,Scholarship status guide 5,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000020
+21,21,Scholarship application guide 6,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000021
+22,22,Financial aid eligibility guide 6,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000022
+23,23,Tuition assistance guide 6,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000023
+24,24,Scholarship status guide 6,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000024
+25,25,Scholarship application guide 7,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000025
+26,26,Financial aid eligibility guide 7,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000026
+27,27,Tuition assistance guide 7,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000027
+28,28,Scholarship status guide 7,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000028
+29,29,Scholarship application guide 8,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000029
+30,30,Financial aid eligibility guide 8,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000030
+31,31,Tuition assistance guide 8,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000031
+32,32,Scholarship status guide 8,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000032
+33,33,Scholarship application guide 9,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000033
+34,34,Financial aid eligibility guide 9,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000034
+35,35,Tuition assistance guide 9,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000035
+36,36,Scholarship status guide 9,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000036
+37,37,Scholarship application guide 10,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000037
+38,38,Financial aid eligibility guide 10,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000038
+39,39,Tuition assistance guide 10,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000039
+40,40,Scholarship status guide 10,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000040
+41,41,Scholarship application guide 11,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000041
+42,42,Financial aid eligibility guide 11,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000042
+43,43,Tuition assistance guide 11,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000043
+44,44,Scholarship status guide 11,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000044
+45,45,Scholarship application guide 12,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000045
+46,46,Financial aid eligibility guide 12,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000046
+47,47,Tuition assistance guide 12,Tuition assistance requests are reviewed by the Financial Aid Team after the student provides the required supporting documents.,KB-000047
+48,48,Scholarship status guide 12,Students can request the current status of a submitted scholarship application through the Financial Aid Team.,KB-000048
+49,49,Scholarship application guide 13,Applicants must submit a completed scholarship application and required documents before the published deadline.,KB-000049
+50,50,Financial aid eligibility guide 13,Eligibility is assessed by the Financial Aid Team using the applicable award criteria and submitted evidence.,KB-000050
+51,51,Course registration guide 1,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000051
+52,52,Registration deadline guide 1,Late registration requires review by the Registration Team and is not guaranteed.,KB-000052
+53,53,Enrollment verification guide 1,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000053
+54,54,Course change guide 1,Course change requests are subject to available seats and the published add-drop period.,KB-000054
+55,55,Course registration guide 2,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000055
+56,56,Registration deadline guide 2,Late registration requires review by the Registration Team and is not guaranteed.,KB-000056
+57,57,Enrollment verification guide 2,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000057
+58,58,Course change guide 2,Course change requests are subject to available seats and the published add-drop period.,KB-000058
+59,59,Course registration guide 3,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000059
+60,60,Registration deadline guide 3,Late registration requires review by the Registration Team and is not guaranteed.,KB-000060
+61,61,Enrollment verification guide 3,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000061
+62,62,Course change guide 3,Course change requests are subject to available seats and the published add-drop period.,KB-000062
+63,63,Course registration guide 4,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000063
+64,64,Registration deadline guide 4,Late registration requires review by the Registration Team and is not guaranteed.,KB-000064
+65,65,Enrollment verification guide 4,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000065
+66,66,Course change guide 4,Course change requests are subject to available seats and the published add-drop period.,KB-000066
+67,67,Course registration guide 5,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000067
+68,68,Registration deadline guide 5,Late registration requires review by the Registration Team and is not guaranteed.,KB-000068
+69,69,Enrollment verification guide 5,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000069
+70,70,Course change guide 5,Course change requests are subject to available seats and the published add-drop period.,KB-000070
+71,71,Course registration guide 6,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000071
+72,72,Registration deadline guide 6,Late registration requires review by the Registration Team and is not guaranteed.,KB-000072
+73,73,Enrollment verification guide 6,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000073
+74,74,Course change guide 6,Course change requests are subject to available seats and the published add-drop period.,KB-000074
+75,75,Course registration guide 7,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000075
+76,76,Registration deadline guide 7,Late registration requires review by the Registration Team and is not guaranteed.,KB-000076
+77,77,Enrollment verification guide 7,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000077
+78,78,Course change guide 7,Course change requests are subject to available seats and the published add-drop period.,KB-000078
+79,79,Course registration guide 8,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000079
+80,80,Registration deadline guide 8,Late registration requires review by the Registration Team and is not guaranteed.,KB-000080
+81,81,Enrollment verification guide 8,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000081
+82,82,Course change guide 8,Course change requests are subject to available seats and the published add-drop period.,KB-000082
+83,83,Course registration guide 9,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000083
+84,84,Registration deadline guide 9,Late registration requires review by the Registration Team and is not guaranteed.,KB-000084
+85,85,Enrollment verification guide 9,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000085
+86,86,Course change guide 9,Course change requests are subject to available seats and the published add-drop period.,KB-000086
+87,87,Course registration guide 10,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000087
+88,88,Registration deadline guide 10,Late registration requires review by the Registration Team and is not guaranteed.,KB-000088
+89,89,Enrollment verification guide 10,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000089
+90,90,Course change guide 10,Course change requests are subject to available seats and the published add-drop period.,KB-000090
+91,91,Course registration guide 11,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000091
+92,92,Registration deadline guide 11,Late registration requires review by the Registration Team and is not guaranteed.,KB-000092
+93,93,Enrollment verification guide 11,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000093
+94,94,Course change guide 11,Course change requests are subject to available seats and the published add-drop period.,KB-000094
+95,95,Course registration guide 12,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000095
+96,96,Registration deadline guide 12,Late registration requires review by the Registration Team and is not guaranteed.,KB-000096
+97,97,Enrollment verification guide 12,Enrollment verification is issued after registration records have been confirmed by the Registration Team.,KB-000097
+98,98,Course change guide 12,Course change requests are subject to available seats and the published add-drop period.,KB-000098
+99,99,Course registration guide 13,Students should use the registration portal during the published enrollment window to register for eligible courses.,KB-000099
+100,100,Registration deadline guide 13,Late registration requires review by the Registration Team and is not guaranteed.,KB-000100
+101,101,Student portal password reset guide 1,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000101
+102,102,Account recovery guide 1,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000102
+103,103,Campus Wi-Fi access guide 1,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000103
+104,104,Learning platform login guide 1,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000104
+105,105,Student portal password reset guide 2,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000105
+106,106,Account recovery guide 2,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000106
+107,107,Campus Wi-Fi access guide 2,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000107
+108,108,Learning platform login guide 2,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000108
+109,109,Student portal password reset guide 3,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000109
+110,110,Account recovery guide 3,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000110
+111,111,Campus Wi-Fi access guide 3,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000111
+112,112,Learning platform login guide 3,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000112
+113,113,Student portal password reset guide 4,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000113
+114,114,Account recovery guide 4,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000114
+115,115,Campus Wi-Fi access guide 4,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000115
+116,116,Learning platform login guide 4,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000116
+117,117,Student portal password reset guide 5,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000117
+118,118,Account recovery guide 5,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000118
+119,119,Campus Wi-Fi access guide 5,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000119
+120,120,Learning platform login guide 5,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000120
+121,121,Student portal password reset guide 6,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000121
+122,122,Account recovery guide 6,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000122
+123,123,Campus Wi-Fi access guide 6,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000123
+124,124,Learning platform login guide 6,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000124
+125,125,Student portal password reset guide 7,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000125
+126,126,Account recovery guide 7,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000126
+127,127,Campus Wi-Fi access guide 7,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000127
+128,128,Learning platform login guide 7,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000128
+129,129,Student portal password reset guide 8,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000129
+130,130,Account recovery guide 8,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000130
+131,131,Campus Wi-Fi access guide 8,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000131
+132,132,Learning platform login guide 8,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000132
+133,133,Student portal password reset guide 9,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000133
+134,134,Account recovery guide 9,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000134
+135,135,Campus Wi-Fi access guide 9,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000135
+136,136,Learning platform login guide 9,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000136
+137,137,Student portal password reset guide 10,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000137
+138,138,Account recovery guide 10,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000138
+139,139,Campus Wi-Fi access guide 10,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000139
+140,140,Learning platform login guide 10,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000140
+141,141,Student portal password reset guide 11,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000141
+142,142,Account recovery guide 11,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000142
+143,143,Campus Wi-Fi access guide 11,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000143
+144,144,Learning platform login guide 11,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000144
+145,145,Student portal password reset guide 12,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000145
+146,146,Account recovery guide 12,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000146
+147,147,Campus Wi-Fi access guide 12,Campus Wi-Fi connection issues should be reported to IT with the device type and location.,KB-000147
+148,148,Learning platform login guide 12,Learning platform login problems are reviewed by IT after the requester supplies the affected account and error description.,KB-000148
+149,149,Student portal password reset guide 13,Students unable to access the student portal should submit an IT support request for approved password-reset assistance.,KB-000149
+150,150,Account recovery guide 13,The IT Support Team verifies account ownership before providing approved account-recovery instructions.,KB-000150
+151,151,Accessibility accommodation guide 1,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000151
+152,152,Assistive technology guide 1,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000152
+153,153,Accessible classroom guide 1,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000153
+154,154,Accessible course materials guide 1,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000154
+155,155,Accessibility accommodation guide 2,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000155
+156,156,Assistive technology guide 2,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000156
+157,157,Accessible classroom guide 2,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000157
+158,158,Accessible course materials guide 2,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000158
+159,159,Accessibility accommodation guide 3,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000159
+160,160,Assistive technology guide 3,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000160
+161,161,Accessible classroom guide 3,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000161
+162,162,Accessible course materials guide 3,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000162
+163,163,Accessibility accommodation guide 4,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000163
+164,164,Assistive technology guide 4,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000164
+165,165,Accessible classroom guide 4,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000165
+166,166,Accessible course materials guide 4,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000166
+167,167,Accessibility accommodation guide 5,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000167
+168,168,Assistive technology guide 5,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000168
+169,169,Accessible classroom guide 5,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000169
+170,170,Accessible course materials guide 5,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000170
+171,171,Accessibility accommodation guide 6,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000171
+172,172,Assistive technology guide 6,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000172
+173,173,Accessible classroom guide 6,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000173
+174,174,Accessible course materials guide 6,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000174
+175,175,Accessibility accommodation guide 7,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000175
+176,176,Assistive technology guide 7,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000176
+177,177,Accessible classroom guide 7,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000177
+178,178,Accessible course materials guide 7,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000178
+179,179,Accessibility accommodation guide 8,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000179
+180,180,Assistive technology guide 8,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000180
+181,181,Accessible classroom guide 8,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000181
+182,182,Accessible course materials guide 8,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000182
+183,183,Accessibility accommodation guide 9,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000183
+184,184,Assistive technology guide 9,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000184
+185,185,Accessible classroom guide 9,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000185
+186,186,Accessible course materials guide 9,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000186
+187,187,Accessibility accommodation guide 10,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000187
+188,188,Assistive technology guide 10,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000188
+189,189,Accessible classroom guide 10,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000189
+190,190,Accessible course materials guide 10,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000190
+191,191,Accessibility accommodation guide 11,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000191
+192,192,Assistive technology guide 11,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000192
+193,193,Accessible classroom guide 11,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000193
+194,194,Accessible course materials guide 11,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000194
+195,195,Accessibility accommodation guide 12,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000195
+196,196,Assistive technology guide 12,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000196
+197,197,Accessible classroom guide 12,Accessible classroom arrangements are coordinated by Accessibility Services with the relevant academic department.,KB-000197
+198,198,Accessible course materials guide 12,Students may request accessible course materials through Accessibility Services for review and coordination.,KB-000198
+199,199,Accessibility accommodation guide 13,Accessibility accommodation requests are reviewed confidentially by Accessibility Services based on documented needs.,KB-000199
+200,200,Assistive technology guide 13,Requests for approved assistive technology are assessed by Accessibility Services for suitability and availability.,KB-000200

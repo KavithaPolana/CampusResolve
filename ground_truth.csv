@@ -1,0 +1,6 @@
+case_id,ticket_id,ticket_number,type,expected,description
+NEG-001,10,TKT-2026-000010,EXPIRED_POLICY,REJECT_CITATION_AND_ESCALATE,An automated response cites a policy that expired before the response.
+NEG-002,11,TKT-2026-000011,UNAUTHORIZED_ROUTING,REJECT_ASSIGNMENT_AND_REROUTE,A ticket is assigned to a team not authorized for its category.
+NEG-003,12,TKT-2026-000012,UNSUPPORTED_ANSWER,REJECT_ANSWER_AND_ESCALATE,An automated response makes a claim unsupported by the cited policy.
+NEG-004,13,TKT-2026-000013,SLA_BUSINESS_HOURS_ERROR,RECALCULATE_BUSINESS_HOURS_SLA,A resolution deadline is calculated using calendar hours instead of business hours.
+NEG-005,14,TKT-2026-000014,MISSED_ESCALATION,ESCALATE_TO_HUMAN,An explicitly unsupported request remains assigned without escalation.

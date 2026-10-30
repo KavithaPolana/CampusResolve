@@ -1,0 +1,163 @@
+
+{% extends "base.html" %}
+
+{% block title %}Create Ticket | CampusResolve{% endblock %}
+
+{% block extra_head %}
+<style>
+    .ticket-page {
+        max-width: 850px;
+        margin: 45px auto;
+        padding: 0 20px;
+    }
+
+    .ticket-page h1 {
+        color: #243B35;
+        margin-bottom: 10px;
+    }
+
+    .ticket-page .subtitle {
+        color: #61736A;
+        margin-bottom: 25px;
+    }
+
+    .ticket-form {
+        background: white;
+        padding: 32px;
+        border-radius: 14px;
+        box-shadow: 0 5px 24px rgba(36, 59, 53, 0.08);
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-group label {
+        display: block;
+        margin-bottom: 8px;
+        color: #243B35;
+        font-weight: 600;
+    }
+
+    .form-group input,
+    .form-group select,
+    .form-group textarea {
+        display: block;
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #C9D6CB;
+        border-radius: 8px;
+        font: inherit;
+        background: #FFFFFF;
+        box-sizing: border-box;
+    }
+
+    .form-group textarea {
+        min-height: 125px;
+        resize: vertical;
+    }
+
+    .form-group input:focus,
+    .form-group select:focus,
+    .form-group textarea:focus {
+        outline: 2px solid #6B8E7B;
+        outline-offset: 1px;
+    }
+
+    .success-message {
+        background: #E4F1E5;
+        color: #243B35;
+        padding: 15px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+
+    .error-message {
+        background: #FFF0E8;
+        color: #873D22;
+        padding: 15px;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+
+    @media (max-width: 600px) {
+        .ticket-form {
+            padding: 20px;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="ticket-page">
+    <h1>Create Support Ticket</h1>
+    <p class="subtitle">
+        Submit your issue to the appropriate campus support team.
+    </p>
+
+    {% if success %}
+    <div class="success-message" role="status">
+        Ticket {{ ticket_number }} created successfully!
+        It has been assigned to {{ assigned_team }}.
+    </div>
+    {% endif %}
+
+    {% if error %}
+    <div class="error-message" role="alert">
+        {{ error }}
+    </div>
+    {% endif %}
+
+    <form class="ticket-form" method="POST"
+          action="{{ url_for('create_ticket') }}">
+
+        <div class="form-group">
+            <label for="requester_id">Student / Faculty</label>
+            <select name="requester_id" id="requester_id" required>
+                <option value="">Select requester</option>
+                {% for requester in requesters %}
+                <option value="{{ requester.requester_id }}">
+                    {{ requester.name }} ({{ requester.role_name }})
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="category_id">Support Category</label>
+            <select name="category_id" id="category_id" required>
+                <option value="">Select category</option>
+                {% for category in categories %}
+                <option value="{{ category.category_id }}">
+                    {{ category.category_name }}
+                </option>
+                {% endfor %}
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="subject">Subject</label>
+            <input
+                type="text"
+                id="subject"
+                name="subject"
+                maxlength="150"
+                placeholder="Briefly describe your issue"
+                required>
+        </div>
+
+        <div class="form-group">
+            <label for="description">Description</label>
+            <textarea
+                id="description"
+                name="description"
+                placeholder="Explain your issue in detail..."
+                required></textarea>
+        </div>
+
+        <button type="submit" class="shared-button">
+            Submit Ticket
+        </button>
+    </form>
+</section>
+{% endblock %}

@@ -1,0 +1,22 @@
+[
+  {
+    "role_id": 1,
+    "role_name": "Student"
+  },
+  {
+    "role_id": 2,
+    "role_name": "Faculty"
+  },
+  {
+    "role_id": 3,
+    "role_name": "Support Agent"
+  },
+  {
+    "role_id": 4,
+    "role_name": "Administrator"
+  },
+  {
+    "role_id": 5,
+    "role_name": "Academic Administrator"
+  }
+]

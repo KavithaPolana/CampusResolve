@@ -1,0 +1,451 @@
+
+{% extends "base.html" %}
+
+{% block title %}
+All Tickets | CampusResolve
+{% endblock %}
+
+{% block extra_head %}
+<style>
+    .tickets-page {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 40px 24px;
+    }
+
+    .tickets-page h1 {
+        color: #243B35;
+        font-size: 32px;
+        margin-bottom: 10px;
+    }
+
+    .tickets-subtitle {
+        color: #61736A;
+        margin-bottom: 24px;
+        line-height: 1.6;
+    }
+
+    .tickets-tabs {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-bottom: 22px;
+    }
+
+    .tickets-tab {
+        display: inline-block;
+        padding: 12px 18px;
+        border: 1px solid #B7C9B1;
+        border-radius: 10px;
+        background: white;
+        color: #243B35;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    .tickets-tab.active {
+        background: #243B35;
+        color: white;
+    }
+
+    .tickets-note {
+        background: #E8F0E7;
+        color: #344C43;
+        padding: 16px;
+        border-radius: 10px;
+        margin-bottom: 22px;
+        line-height: 1.6;
+    }
+
+    .tickets-filters {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-bottom: 24px;
+    }
+
+    .tickets-filters input,
+    .tickets-filters select {
+        padding: 12px;
+        border: 1px solid #D8E4DA;
+        border-radius: 9px;
+        font-size: 14px;
+        background: white;
+    }
+
+    .tickets-filters input {
+        min-width: 250px;
+        flex: 1;
+    }
+
+    .tickets-search-button {
+        padding: 12px 24px;
+        background: #6B8E7B;
+        color: white;
+        border: none;
+        border-radius: 9px;
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+    .tickets-count {
+        margin-bottom: 18px;
+        color: #465B50;
+    }
+
+    .tickets-table-container {
+        background: white;
+        border: 1px solid #E3EBE3;
+        border-radius: 14px;
+        overflow-x: auto;
+        box-shadow: 0 5px 20px rgba(36, 59, 53, 0.05);
+    }
+
+    .tickets-table {
+        width: 100%;
+        min-width: 850px;
+        border-collapse: collapse;
+    }
+
+    .tickets-table th {
+        background: #E8F0E7;
+        color: #243B35;
+        padding: 16px;
+        text-align: left;
+        font-size: 14px;
+    }
+
+    .tickets-table td {
+        padding: 15px;
+        border-bottom: 1px solid #E7EDE8;
+        color: #344C43;
+        font-size: 14px;
+    }
+
+    .tickets-table tbody tr:hover {
+        background: #F8FAF7;
+    }
+
+    .ticket-link {
+        color: #276243;
+        font-weight: 700;
+        text-decoration: none;
+    }
+
+    .ticket-link:hover {
+        text-decoration: underline;
+    }
+
+    .ticket-status {
+        display: inline-block;
+        padding: 6px 12px;
+        border-radius: 20px;
+        font-size: 12px;
+        font-weight: 700;
+        background: #EDF1ED;
+        color: #243B35;
+        white-space: nowrap;
+    }
+
+    .ticket-status.resolved {
+        background: #DCEFE1;
+        color: #276243;
+    }
+
+    .ticket-status.escalated {
+        background: #F8EBD5;
+        color: #8B6326;
+    }
+
+    .ticket-status.in-progress {
+        background: #E2EEE7;
+        color: #37674D;
+    }
+
+    .tickets-pagination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px;
+        margin-top: 28px;
+    }
+
+    .tickets-pagination a {
+        padding: 10px 18px;
+        border: 1px solid #B7C9B1;
+        border-radius: 9px;
+        color: #243B35;
+        background: white;
+        text-decoration: none;
+    }
+
+    .tickets-pagination a:hover {
+        background: #E8F0E7;
+    }
+
+    .tickets-empty {
+        text-align: center;
+        padding: 30px !important;
+        color: #61736A;
+    }
+
+    @media (max-width: 768px) {
+        .tickets-page {
+            padding: 25px 16px;
+        }
+
+        .tickets-page h1 {
+            font-size: 27px;
+        }
+
+        .tickets-filters input {
+            min-width: 100%;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+
+<div class="tickets-page">
+
+    <h1>All Support Tickets</h1>
+
+    <p class="tickets-subtitle">
+        View campus support requests across Financial Aid,
+        Registration, IT, and Accessibility.
+    </p>
+
+    <!-- DATASET SWITCH -->
+    <div class="tickets-tabs">
+
+        <a
+            href="{{ url_for('all_tickets', source='synthetic') }}"
+            class="tickets-tab {% if source == 'synthetic' %}active{% endif %}"
+        >
+            Synthetic Dataset (5,000)
+        </a>
+
+        <a
+            href="{{ url_for('all_tickets', source='live') }}"
+            class="tickets-tab {% if source == 'live' %}active{% endif %}"
+        >
+            Live Tickets
+        </a>
+
+        <a
+            href="{{ url_for('create_ticket') }}"
+            class="tickets-tab"
+        >
+            + Create Ticket
+        </a>
+
+    </div>
+
+    <!-- DATA SOURCE INFORMATION -->
+    <div class="tickets-note">
+
+        {% if source == 'synthetic' %}
+
+            <strong>Synthetic Challenge Dataset</strong>
+
+            <p>
+                These are the 5,000 generated tickets used
+                for testing, validation, and analytics.
+                This dataset is read-only.
+            </p>
+
+        {% else %}
+
+            <strong>Live Support Tickets</strong>
+
+            <p>
+                These tickets were created through the
+                CampusResolve website and processed
+                using automatic routing, policy answers,
+                and SLA tracking.
+            </p>
+
+        {% endif %}
+
+    </div>
+
+    <!-- SEARCH AND FILTER -->
+    <form
+        class="tickets-filters"
+        method="GET"
+        action="{{ url_for('all_tickets') }}"
+    >
+
+        <input
+            type="hidden"
+            name="source"
+            value="{{ source }}"
+        >
+
+        <input
+            type="text"
+            name="q"
+            value="{{ search }}"
+            placeholder="Search ticket ID or subject"
+        >
+
+        <select name="status">
+
+            <option value="">All Statuses</option>
+
+            {% for item in [
+                'Open',
+                'Assigned',
+                'In Progress',
+                'Resolved',
+                'Escalated',
+                'Closed'
+            ] %}
+
+                <option
+                    value="{{ item }}"
+                    {% if status == item %}selected{% endif %}
+                >
+                    {{ item }}
+                </option>
+
+            {% endfor %}
+
+        </select>
+
+        <button
+            type="submit"
+            class="tickets-search-button"
+        >
+            Search
+        </button>
+
+    </form>
+
+    <!-- TICKET COUNT -->
+    <p class="tickets-count">
+
+        <strong>{{ total }}</strong> matching tickets
+
+        &nbsp; | &nbsp;
+
+        Page {{ page }} of {{ total_pages }}
+
+    </p>
+
+    <!-- TICKETS TABLE -->
+    <div class="tickets-table-container">
+
+        <table class="tickets-table">
+
+            <thead>
+                <tr>
+                    <th>Ticket ID</th>
+                    <th>Subject</th>
+                    <th>Requester</th>
+                    <th>Category</th>
+                    <th>Assigned Team</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                {% for ticket in tickets %}
+
+                <tr>
+
+                    <td>
+                        <a
+                            class="ticket-link"
+                            href="{{ url_for(
+                                'ticket_details',
+                                ticket_id=ticket.ticket_id,
+                                source=source
+                            ) }}"
+                        >
+                            {{ ticket.ticket_number }}
+                        </a>
+                    </td>
+
+                    <td>{{ ticket.subject }}</td>
+
+                    <td>{{ ticket.requester_name }}</td>
+
+                    <td>{{ ticket.category_name }}</td>
+
+                    <td>
+                        {{ ticket.assigned_team or 'Not assigned' }}
+                    </td>
+
+                    <td>
+                        <span
+                            class="ticket-status {{ ticket.status|lower|replace(' ', '-') }}"
+                        >
+                            {{ ticket.status }}
+                        </span>
+                    </td>
+
+                </tr>
+
+                {% else %}
+
+                <tr>
+                    <td
+                        colspan="6"
+                        class="tickets-empty"
+                    >
+                        No tickets found.
+                    </td>
+                </tr>
+
+                {% endfor %}
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+    <!-- PAGINATION -->
+    <div class="tickets-pagination">
+
+        {% if page > 1 %}
+
+            <a href="{{ url_for(
+                'all_tickets',
+                source=source,
+                page=page-1,
+                q=search,
+                status=status
+            ) }}">
+                Previous
+            </a>
+
+        {% endif %}
+
+        <span>
+            Page {{ page }} of {{ total_pages }}
+        </span>
+
+        {% if page < total_pages %}
+
+            <a href="{{ url_for(
+                'all_tickets',
+                source=source,
+                page=page+1,
+                q=search,
+                status=status
+            ) }}">
+                Next
+            </a>
+
+        {% endif %}
+
+    </div>
+
+</div>
+
+{% endblock %}

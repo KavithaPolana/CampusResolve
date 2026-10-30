@@ -1,0 +1,149 @@
+{
+  "project": "CampusResolve",
+  "seed": 20261022,
+  "source_database": "synthetic_campusresolve.db",
+  "total_tables": 15,
+  "table_counts": {
+    "roles": 5,
+    "terms": 3,
+    "categories": 4,
+    "requesters": 500,
+    "policy_documents": 200,
+    "knowledge_articles": 200,
+    "routing_rules": 4,
+    "sla_business_hours": 7,
+    "tickets": 5000,
+    "messages": 20000,
+    "assignments": 5000,
+    "sla": 5000,
+    "resolution_feedback": 4034,
+    "ticket_events": 10294,
+    "policy_citations": 4706
+  },
+  "files": {
+    "roles.csv": {
+      "sha256": "9ed0e84827b8b84cfcc9215980a9cf7838074cef795bda12c90e2f1f9e31587d",
+      "size_bytes": 101
+    },
+    "roles.json": {
+      "sha256": "94ae98b406f85d7296fbb858d99762cfe317d98bad96d318be14882ceed1c5a9",
+      "size_bytes": 320
+    },
+    "terms.csv": {
+      "sha256": "d0db56b9001d532831dc469861afaf1d71f7b406d411646adb93d6ff7e95ce9b",
+      "size_bytes": 148
+    },
+    "terms.json": {
+      "sha256": "95512641f955ca088b32e88e7606bdf073442ee6fbcab711e642fc0ffa271b90",
+      "size_bytes": 379
+    },
+    "categories.csv": {
+      "sha256": "e09ff036211d3e386ff6f8fbda24b43c634ca495aa80d758ff9d11c859e75199",
+      "size_bytes": 200
+    },
+    "categories.json": {
+      "sha256": "e4207f3478ab6939a17bf3d82ec7e240c32c3360cdcac35cf40151a3f6abda93",
+      "size_bytes": 566
+    },
+    "requesters.csv": {
+      "sha256": "4fbdf8ad62e9f86f15fd99ac8a27c0476deb22c6ffccbedaa5dd2045c0dccb44",
+      "size_bytes": 28925
+    },
+    "requesters.json": {
+      "sha256": "794c18976978ac395afb8d1902cbf1233b847f4f1a3e231865f256aab6a8bdee",
+      "size_bytes": 69395
+    },
+    "policy_documents.csv": {
+      "sha256": "8ab0fc2e2a1c203aa6f99cb7a62bdbc0c5478732c60520db9e5a18f472637c28",
+      "size_bytes": 38870
+    },
+    "policy_documents.json": {
+      "sha256": "5ba0060b4147b43e04b12800d434e83ca95d10f6cb2ea8e9039f1c0c3e8b2b7c",
+      "size_bytes": 74188
+    },
+    "knowledge_articles.csv": {
+      "sha256": "daeedaa70b545fa534c1dc76c96f4ab2117173d91dcd689b178691dade72fe8b",
+      "size_bytes": 31726
+    },
+    "knowledge_articles.json": {
+      "sha256": "d4407b86dbaf4a6401cf5850152a2c7a288459fa00fc7dc6ab497629ba026700",
+      "size_bytes": 53280
+    },
+    "routing_rules.csv": {
+      "sha256": "6081988ec33a6cfa3392b604e270a0ed4bef43f9114fa7109d7d44f1ec79c549",
+      "size_bytes": 149
+    },
+    "routing_rules.json": {
+      "sha256": "a62930b44a893ffe847c2e4958d907ad5d6d583611a89e5c02818ac5029a8e0a",
+      "size_bytes": 471
+    },
+    "sla_business_hours.csv": {
+      "sha256": "aa4a61fd26d990ec4a87e17d28e1bffb126eeefaad52539191db4100604393b4",
+      "size_bytes": 189
+    },
+    "sla_business_hours.json": {
+      "sha256": "8ef20c8abe441b63d9b9e844c12a3fca09dcdf0f7d00c562c540f61815e89e2e",
+      "size_bytes": 927
+    },
+    "tickets.csv": {
+      "sha256": "6abf30fa564eddd4c3d60a7833316eb763bf13aad885568f6e59a3604d4f72b9",
+      "size_bytes": 842372
+    },
+    "tickets.json": {
+      "sha256": "85ffc82003c5dc7fe0ef9602f7445dc163703ec6999cfa8451f51d9d796e3fb8",
+      "size_bytes": 2027259
+    },
+    "messages.csv": {
+      "sha256": "660fe15f006689dd17ae3e1ba7dd46a45de3198efaded8ba8e983dafe519fda6",
+      "size_bytes": 2774206
+    },
+    "messages.json": {
+      "sha256": "25f6fef97e3589cee8cc4debdb0724f78c112101a5e2a40448996f3b827d58d5",
+      "size_bytes": 6611757
+    },
+    "assignments.csv": {
+      "sha256": "fcf46606b9034487bb034d949f6295e762c8f7f5bc2859bb3ab46a6f1a59ca37",
+      "size_bytes": 247837
+    },
+    "assignments.json": {
+      "sha256": "08d8067621fcb46a073da95b232b11d2e1eba67330a300a25c6aca63ef752f6f",
+      "size_bytes": 742789
+    },
+    "sla.csv": {
+      "sha256": "3dc8df9bcc96816db24e622e22c9f21980dd17e89e24c6c403f2d7fc7b50ee67",
+      "size_bytes": 544536
+    },
+    "sla.json": {
+      "sha256": "2cd38cb68503f558a0d0a39ee51e94b0d7b9b577b440ebc21788a5f82e820053",
+      "size_bytes": 1516367
+    },
+    "resolution_feedback.csv": {
+      "sha256": "e641dfe859e3fa57e103c6390e97da8e373f85cd1abc729ae7a950930e188c34",
+      "size_bytes": 296565
+    },
+    "resolution_feedback.json": {
+      "sha256": "3c824ae6c09591445492ea046d7ebd0c73693e4e157930b0a610cf692ab37e5b",
+      "size_bytes": 695883
+    },
+    "ticket_events.csv": {
+      "sha256": "0dd22b315da9ac20e38ca06e6e39ec204362b5bd8a2c371e8fe7a3879484d32a",
+      "size_bytes": 878137
+    },
+    "ticket_events.json": {
+      "sha256": "78819ad996dc2c8ce00176642985306e0377eba58c6773842743c79fa242f0e5",
+      "size_bytes": 2103066
+    },
+    "policy_citations.csv": {
+      "sha256": "df112143b993b8657500a99e6f4e612cf8ff61d40eb2b064d38227e67ec43ed8",
+      "size_bytes": 186942
+    },
+    "policy_citations.json": {
+      "sha256": "0af052fbd996732ca9b517335b1683f29ce80cf92eb1f526d401c5171f2680f4",
+      "size_bytes": 808069
+    },
+    "synthetic_seed.sql": {
+      "sha256": "8d3883876ea2da58dbd4c31cacf040652038f85b3e6d3ed8a3692b9ccbf59000",
+      "size_bytes": 8272110
+    }
+  }
+}

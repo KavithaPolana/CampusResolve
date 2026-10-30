@@ -1,0 +1,526 @@
+
+{% extends "base.html" %}
+
+{% block title %}{{ ticket.ticket_number }} | CampusResolve{% endblock %}
+
+{% block extra_head %}
+<style>
+    .details-page {
+        max-width: 1100px;
+        margin: 40px auto;
+        padding: 0 20px;
+    }
+
+    .details-back {
+        display: inline-block;
+        margin-bottom: 22px;
+        color: #527461;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    .details-back:hover {
+        text-decoration: underline;
+    }
+
+    .details-heading {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        gap: 18px;
+        margin-bottom: 28px;
+    }
+
+    .details-heading h1 {
+        color: #243B35;
+        margin: 0 0 10px;
+        overflow-wrap: anywhere;
+    }
+
+    .details-subtitle {
+        color: #61736A;
+        margin: 0;
+    }
+
+    .details-source {
+        display: inline-block;
+        margin-top: 10px;
+        padding: 6px 12px;
+        border-radius: 20px;
+        background: #E8F0E7;
+        color: #46634D;
+        font-size: 12px;
+        font-weight: 700;
+    }
+
+    .details-status {
+        display: inline-block;
+        background: #E7EFE4;
+        color: #365A40;
+        border-radius: 25px;
+        padding: 9px 16px;
+        font-weight: 700;
+        white-space: nowrap;
+    }
+
+    .details-status.status-escalated {
+        background: #F8E5DC;
+        color: #8A4631;
+    }
+
+    .details-status.status-resolved,
+    .details-status.status-closed {
+        background: #DCEFE1;
+        color: #276243;
+    }
+
+    .details-grid {
+        display: grid;
+        grid-template-columns: 1.5fr 1fr;
+        gap: 22px;
+    }
+
+    .details-card {
+        background: #FFFFFF;
+        border: 1px solid #E3EBE3;
+        border-radius: 14px;
+        padding: 26px;
+        margin-bottom: 22px;
+        box-shadow: 0 5px 20px rgba(36, 59, 53, 0.05);
+    }
+
+    .details-card h2 {
+        color: #243B35;
+        font-size: 21px;
+        margin: 0 0 20px;
+    }
+
+    .details-description {
+        color: #465B50;
+        line-height: 1.8;
+        white-space: pre-wrap;
+        overflow-wrap: anywhere;
+    }
+
+    .details-field {
+        margin-bottom: 18px;
+    }
+
+    .details-label {
+        display: block;
+        color: #73857A;
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+
+    .details-value {
+        color: #243B35;
+        font-weight: 600;
+        overflow-wrap: anywhere;
+    }
+
+    .timeline-item {
+        border-left: 3px solid #B7C9B1;
+        padding: 0 0 25px 20px;
+        position: relative;
+    }
+
+    .timeline-item:last-child {
+        padding-bottom: 0;
+    }
+
+    .timeline-item::before {
+        content: "";
+        position: absolute;
+        left: -7px;
+        top: 0;
+        width: 11px;
+        height: 11px;
+        background: #6B8E7B;
+        border-radius: 50%;
+    }
+
+    .timeline-type {
+        color: #243B35;
+        font-weight: 700;
+        margin-bottom: 7px;
+    }
+
+    .timeline-description {
+        color: #52685B;
+        line-height: 1.6;
+        overflow-wrap: anywhere;
+    }
+
+    .timeline-date {
+        color: #829087;
+        font-size: 12px;
+        margin-top: 6px;
+    }
+
+    .conversation-item {
+        border-left: 3px solid #B7C9B1;
+        padding: 4px 0 4px 16px;
+        margin-bottom: 22px;
+    }
+
+    .conversation-item:last-child {
+        margin-bottom: 0;
+    }
+
+    .conversation-sender {
+        color: #243B35;
+        font-weight: 700;
+        margin-bottom: 6px;
+    }
+
+    .conversation-date {
+        color: #829087;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .policy-reference {
+        margin-top: 12px;
+        padding: 12px 14px;
+        background: #F1F6EF;
+        border: 1px solid #DCE8D9;
+        border-radius: 8px;
+        color: #465B50;
+        font-size: 13px;
+        line-height: 1.7;
+        overflow-wrap: anywhere;
+    }
+
+    .empty-message {
+        color: #73857A;
+        line-height: 1.6;
+    }
+
+    .workflow-note {
+        background: #F1F6EF;
+        border: 1px solid #DCE8D9;
+        border-radius: 10px;
+        padding: 18px;
+        color: #465B50;
+        line-height: 1.7;
+    }
+
+    .workflow-note strong {
+        color: #243B35;
+    }
+
+    .workflow-note ul {
+        padding-left: 20px;
+        margin: 12px 0 0;
+    }
+
+    .workflow-note li {
+        margin-bottom: 10px;
+    }
+
+    @media (max-width: 768px) {
+        .details-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .details-page {
+            margin-top: 25px;
+            padding: 0 16px;
+        }
+
+        .details-heading h1 {
+            font-size: 28px;
+        }
+
+        .details-card {
+            padding: 20px;
+        }
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="details-page">
+
+    <a
+        class="details-back"
+        href="{{ url_for('all_tickets', source=source|default('live')) }}"
+    >
+        &larr; Back to All Tickets
+    </a>
+
+    <div class="details-heading">
+        <div>
+            <h1>{{ ticket.subject }}</h1>
+
+            <p class="details-subtitle">
+                {{ ticket.ticket_number }}
+            </p>
+
+            <span class="details-source">
+                {% if source|default('live') == 'synthetic' %}
+                    Synthetic Dataset
+                {% else %}
+                    Live Support Ticket
+                {% endif %}
+            </span>
+        </div>
+
+        <span class="details-status status-{{ ticket.status|lower|replace(' ', '-') }}">
+            {{ ticket.status }}
+        </span>
+    </div>
+
+    <div class="details-grid">
+
+        <main>
+
+            <!-- ISSUE DESCRIPTION -->
+            <section class="details-card">
+                <h2>Issue Description</h2>
+
+                <div class="details-description">{{ ticket.description }}</div>
+            </section>
+
+            <!-- ACTIVITY HISTORY -->
+            <section class="details-card">
+                <h2>Ticket Activity History</h2>
+
+                {% for event in events %}
+                    <div class="timeline-item">
+
+                        <div class="timeline-type">
+                            {{ event.event_type }}
+                        </div>
+
+                        <div class="timeline-description">
+                            {{ event.event_description }}
+                        </div>
+
+                        <div class="timeline-date">
+                            {{ event.created_at }}
+                        </div>
+
+                    </div>
+                {% else %}
+                    <p class="empty-message">
+                        No activity recorded for this ticket.
+                    </p>
+                {% endfor %}
+            </section>
+
+            <!-- CONVERSATION -->
+            <section class="details-card">
+                <h2>Conversation</h2>
+
+                {% for message in messages %}
+                    <div class="conversation-item">
+
+                        <div class="conversation-sender">
+                            {{ message.sender_type }}
+                        </div>
+
+                        <div class="conversation-date">
+                            {{ message.created_at }}
+                        </div>
+
+                        <div class="details-description">{{ message.message_text }}</div>
+
+                        {% if message.policy_code %}
+                            <div class="policy-reference">
+                                <strong>Policy Reference</strong>
+
+                                <div>
+                                    {{ message.policy_code }}
+                                </div>
+
+                                {% if message.policy_title %}
+                                    <div>
+                                        {{ message.policy_title }}
+                                    </div>
+                                {% endif %}
+
+                                {% if message.policy_version %}
+                                    <div>
+                                        Version: {{ message.policy_version }}
+                                    </div>
+                                {% endif %}
+
+                                {% if message.effective_from %}
+                                    <div>
+                                        Effective from:
+                                        {{ message.effective_from }}
+                                    </div>
+                                {% endif %}
+
+                                {% if message.effective_to %}
+                                    <div>
+                                        Effective until:
+                                        {{ message.effective_to }}
+                                    </div>
+                                {% endif %}
+                            </div>
+                        {% endif %}
+
+                    </div>
+                {% else %}
+                    <p class="empty-message">
+                        No support messages have been recorded
+                        for this ticket yet.
+                    </p>
+                {% endfor %}
+            </section>
+
+        </main>
+
+        <aside>
+
+            <!-- TICKET INFORMATION -->
+            <section class="details-card">
+                <h2>Ticket Information</h2>
+
+                <div class="details-field">
+                    <span class="details-label">Ticket ID</span>
+                    <span class="details-value">
+                        {{ ticket.ticket_number }}
+                    </span>
+                </div>
+
+                <div class="details-field">
+                    <span class="details-label">Requester</span>
+                    <span class="details-value">
+                        {{ ticket.requester_name }}
+                    </span>
+                </div>
+
+                <div class="details-field">
+                    <span class="details-label">Role</span>
+                    <span class="details-value">
+                        {{ ticket.role_name }}
+                    </span>
+                </div>
+
+                <div class="details-field">
+                    <span class="details-label">Category</span>
+                    <span class="details-value">
+                        {{ ticket.category_name }}
+                    </span>
+                </div>
+
+                <div class="details-field">
+                    <span class="details-label">Assigned Team</span>
+                    <span class="details-value">
+                        {{ ticket.assigned_team or "Not assigned" }}
+                    </span>
+                </div>
+
+                <div class="details-field">
+                    <span class="details-label">Created At</span>
+                    <span class="details-value">
+                        {{ ticket.created_at }}
+                    </span>
+                </div>
+
+                <div class="details-field">
+                    <span class="details-label">Last Updated</span>
+                    <span class="details-value">
+                        {{ ticket.updated_at or "Not updated" }}
+                    </span>
+                </div>
+            </section>
+
+            <!-- SLA INFORMATION -->
+            <section class="details-card">
+                <h2>Service Level Agreement (SLA)</h2>
+
+                {% if sla %}
+                    <div class="details-field">
+                        <span class="details-label">
+                            First Response Deadline
+                        </span>
+                        <span class="details-value">
+                            {{ sla.response_deadline or "Not set" }}
+                        </span>
+                    </div>
+
+                    <div class="details-field">
+                        <span class="details-label">
+                            Resolution Deadline
+                        </span>
+                        <span class="details-value">
+                            {{ sla.resolution_deadline or "Not set" }}
+                        </span>
+                    </div>
+
+                    <div class="details-field">
+                        <span class="details-label">
+                            First Response At
+                        </span>
+                        <span class="details-value">
+                            {{ sla.first_response_at or "Pending" }}
+                        </span>
+                    </div>
+
+                    <div class="details-field">
+                        <span class="details-label">
+                            Resolved At
+                        </span>
+                        <span class="details-value">
+                            {{ sla.resolved_at or "Not resolved" }}
+                        </span>
+                    </div>
+                {% else %}
+                    <p class="empty-message">
+                        No SLA record is available for this ticket.
+                    </p>
+                {% endif %}
+            </section>
+
+            <!-- WORKFLOW INFORMATION -->
+            <section class="details-card">
+                <h2>Workflow Information</h2>
+
+                <div class="workflow-note">
+                    <strong>Rule-Based Ticket Processing</strong>
+
+                    <ul>
+                        <li>
+                            <strong>Automatic Routing:</strong>
+                            Requests are assigned using authorized
+                            category-to-team routing rules.
+                        </li>
+
+                        <li>
+                            <strong>Policy-Grounded Support:</strong>
+                            Supported automated responses include
+                            policy references and versions.
+                        </li>
+
+                        <li>
+                            <strong>Business-Hours SLA:</strong>
+                            Response and resolution deadlines are
+                            calculated using configured working hours.
+                        </li>
+
+                        <li>
+                            <strong>Human Escalation:</strong>
+                            Requests that cannot be answered safely
+                            are escalated for human review.
+                        </li>
+
+                        <li>
+                            <strong>Traceability:</strong>
+                            Ticket events and conversations preserve
+                            the support history.
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+        </aside>
+
+    </div>
+</div>
+{% endblock %}

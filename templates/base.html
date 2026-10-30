@@ -1,0 +1,167 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}CampusResolve{% endblock %}</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .shared-header {
+            background: #243B35;
+            color: white;
+            position: relative;
+            z-index: 10;
+        }
+
+        .shared-nav {
+            max-width: 1200px;
+            margin: auto;
+            padding: 18px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+        .shared-brand {
+            color: white;
+            text-decoration: none;
+            font-size: 22px;
+            font-weight: 700;
+        }
+
+        .shared-links {
+            display: flex;
+            align-items: center;
+            gap: 26px;
+        }
+
+        .shared-links a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .shared-links a:hover {
+            color: #B7C9B1;
+        }
+
+        .shared-menu-button {
+            display: none;
+            background: transparent;
+            border: 1px solid #B7C9B1;
+            color: white;
+            font-size: 24px;
+            border-radius: 8px;
+            padding: 4px 12px;
+            cursor: pointer;
+        }
+
+        .shared-footer {
+            background: #243B35;
+            color: white;
+            text-align: center;
+            padding: 22px;
+            margin-top: 60px;
+        }
+
+        .page-content {
+            min-height: 65vh;
+        }
+
+        .shared-button {
+            display: inline-block;
+            border: none;
+            border-radius: 9px;
+            padding: 12px 22px;
+            background: #6B8E7B;
+            color: white;
+            font-size: 15px;
+            font-weight: 600;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        .shared-button:hover {
+            background: #527461;
+        }
+
+        @media (max-width: 768px) {
+            .shared-menu-button {
+                display: block;
+            }
+
+            .shared-links {
+                display: none;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                flex-direction: column;
+                align-items: stretch;
+                gap: 0;
+                background: #243B35;
+                padding: 8px 24px 20px;
+            }
+
+            .shared-links.open {
+                display: flex;
+            }
+
+            .shared-links a {
+                padding: 13px 0;
+                border-bottom: 1px solid #486157;
+            }
+        }
+    </style>
+    {% block extra_head %}{% endblock %}
+</head>
+<body>
+    <header class="shared-header">
+        <nav class="shared-nav">
+            <a class="shared-brand" href="{{ url_for('dashboard') }}">
+                CampusResolve
+            </a>
+
+            <button
+                class="shared-menu-button"
+                id="sharedMenuButton"
+                type="button"
+                aria-label="Toggle navigation"
+                aria-controls="sharedNavLinks"
+                aria-expanded="false">
+                &#9776;
+            </button>
+
+            <div class="shared-links" id="sharedNavLinks">
+                <a href="{{ url_for('dashboard') }}">Dashboard</a>
+                <a href="{{ url_for('create_ticket') }}">Create Ticket</a>
+                <a href="{{ url_for('all_tickets') }}">All Tickets</a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="page-content">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="shared-footer">
+        <p>CampusResolve &copy; 2026 | Student & Faculty Support</p>
+    </footer>
+
+    <script>
+        const menuButton = document.getElementById("sharedMenuButton");
+        const navLinks = document.getElementById("sharedNavLinks");
+
+        menuButton.addEventListener("click", function () {
+            const isOpen = navLinks.classList.toggle("open");
+            menuButton.setAttribute("aria-expanded", String(isOpen));
+            menuButton.innerHTML = isOpen ? "&times;" : "&#9776;";
+        });
+    </script>
+
+    {% block extra_scripts %}{% endblock %}
+</body>
+</html>
